@@ -66,13 +66,20 @@ def adjust_policy_fn_for_OpenSim(policy: Callable, osim_model: Model, remove_key
         state_vector = osim_model.getStateVariableValues(osim_state)
         state_names = osim_model.getStateVariableNames()
 
-        all_states = [state_names.get(i) for i in range(state_names.getSize())]
+        all_state_names = [state_names.get(i) for i in range(state_names.getSize())]
 
         # This is probably objectively the slowest way to do this, should rewrite this at some point
         obs = []
-        for i in range(len(all_states)):
-            if not any([r in all_states[i] for r in remove_keywords]):
+        state_names_removed = []
+        for i in range(len(all_state_names)):
+            if not any([r in all_state_names[i] for r in remove_keywords]):
                 obs.append(state_vector[i])
+                state_names_removed.append(all_state_names[i])
+
+        all_angles = [obs[i] for i in range(len(state_names_removed)) if 'value' in state_names_removed[i]]
+        all_speeds = [obs[i] for i in range(len(state_names_removed)) if 'speed' in state_names_removed[i]]
+
+        obs = all_angles + all_speeds
 
         action = policy(obs)
 
@@ -155,7 +162,7 @@ if __name__=='__main__':
 
     #Enable tests here
     POLICY_TEST = False
-    MODEL_MATCHING_TEST = False
+    MODEL_MATCHING_TEST = True
 
     if TRAINING:
         create_RL_controller()
@@ -210,23 +217,30 @@ if __name__=='__main__':
         loco_obs = env.reset() #Gets the initial observation
         osim_state = osim_model.initSystem()
 
-        print([i.getName() for i in osim_model.getCoordinateSet()]) #This contaoins a bunch of upper body ones as well, but this does seem like joints
 
-        for o in env.obs_container.values():
-            print(f"idx {o.obs_ind}, name {o.name}, type {o.__class__.__name__}")
 
         osim_state = osim_model.initSystem()
         state_names = osim_model.getStateVariableNames()
 
         all_states = [state_names.get(i) for i in range(state_names.getSize())]
-        joint_values = [j for j in all_states if 'value' in j]
-        joint_speeds = [j for j in all_states if 'speed' in j]
-        # muscle_activations = [j for j in all_states if 'activation' in j]
-        # muscle_fiber_lengths = [j for j in all_states if 'fiber' in j]
-        print(all_states)
-        # print(joint_values)
-        # print(joint_speeds)
 
+        osim_obs = []
+        for i in range(len(all_states)):
+            if not any([r in all_states[i] for r in remove_keywords]):
+                osim_obs.append(all_states[i])
+
+        all_angles = [a for a in osim_obs if 'value' in a]
+        all_speeds = [s for s in osim_obs if 'speed' in s]
+
+        osim_obs = all_angles + all_speeds
+
+        print('Visual Inpection: check that the parameter names match')
+
+        for o in range(len(osim_obs)):
+            print(f"index: {o}, osim: {osim_obs[o]}")
+
+        for o in env.obs_container.values():
+            print(f"idx {o.obs_ind}, name {o.name}")
 
         print('PASSED MODEL MATCHING TEST :)')
 
