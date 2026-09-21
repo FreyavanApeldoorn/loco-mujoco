@@ -4,10 +4,11 @@ import jax
 import jax.numpy as jnp
 import opensim as osim
 
-from loco_mujoco import TaskFactory
+from loco_mujoco import TaskFactory, LocoEnv
 from loco_mujoco.task_factories import ImitationFactory, LAFAN1DatasetConf, DefaultDatasetConf, AMASSDatasetConf
 from loco_mujoco.algorithms import PPOJax
 from loco_mujoco.algorithms.ppo_jax import PPOAgentConf, PPOAgentState
+from opensim import Model
 
 import hydra
 from hydra.core.hydra_config import HydraConfig
@@ -44,6 +45,42 @@ def create_policy_fn(agent_state: PPOAgentState, agent_conf: PPOAgentConf) -> Ca
         return action
 
     return policy
+
+def adjust_policy_fn_for_OpenSim(policy: Callable, osim_model: Model, remove_keywords: list) -> Callable:
+    '''
+    Creates a controller that takes an OpenSim state as an input and outputs ..., based on a previously trained policy.
+
+    Inputs:
+    policy: trained RL policy (see create_policy_fn)
+    osim_model: the OpenSim model that the controller will be applied to
+    remove_keywords: a list of keywords that indicate which states need to be removed between the opensim state and the mujoco observation
+
+    Outputs:
+    OpenSim_controller: controller that takes the opensim state as an input and outputs muscle actions
+    
+    '''
+    # Remove from the Opensim state:
+    # all muscle activations, all fiber lengths, pelvis_tx, subtalar angle, mtp angle
+
+    def OpenSim_controller(osim_state):
+        state_vector = osim_model.getStateVariableValues(osim_state)
+        state_names = osim_model.getStateVariableNames()
+
+        all_states = [state_names.get(i) for i in range(state_names.getSize())]
+
+        # This is probably objectively the slowest way to do this, should rewrite this at some point
+        obs = []
+        for i in range(len(all_states)):
+            if not any([r in all_states[i] for r in remove_keywords]):
+                obs.append(state_vector[i])
+
+        action = policy(obs)
+
+        action = action[:len(action)-14] #Removes the last 14 actuators for the arms, this should probably be a variable...
+
+        return action
+
+    return OpenSim_controller
 
 @hydra.main(version_base=None, config_path="./", config_name='conf')
 def create_RL_controller(config: DictConfig) -> None:
@@ -95,20 +132,6 @@ def OpenSim_RL_retraining():
     '''
     return
 
-def OpenSim_RL_conversion(policy: Callable):
-    '''
-    Inputs:
-
-    Outputs:
-
-    Converts the MuJoCo controller into a form that can be implemented in OpenSim
-    '''
-
-    #The OpenSim model only has the muscles as actuators, not the upper-body ones. 
-
-
-    return
-
 def OpenSim_RL_implementation(model_path: str):
     '''
     Inputs:
@@ -132,7 +155,7 @@ if __name__=='__main__':
 
     #Enable tests here
     POLICY_TEST = False
-    MODEL_MATCHING_TEST = True
+    MODEL_MATCHING_TEST = False
 
     if TRAINING:
         create_RL_controller()
@@ -147,12 +170,20 @@ if __name__=='__main__':
 
     osim_model = osim.Model(save_path_osim_model)
 
-    #env.step()
-
     if POLICY_TEST or MODEL_MATCHING_TEST:
         env = ImitationFactory.make('MjxSkeletonMuscle',
                                 default_dataset_conf=DefaultDatasetConf(["walk"]),
                                 n_substeps=20)
+
+    remove_keywords = ['activation', 'fiber', 'pelvis_tx/value', 'subtalar_angle', 'mtp_angle']
+
+    osim_controller = adjust_policy_fn_for_OpenSim(policy, osim_model, remove_keywords)
+
+    print(len(osim_controller(osim_model.initSystem())))
+
+    # print(osim_model.initSystem())
+
+    # print(osim_model.getStateVariableValues(osim_model.initSystem()))
 
     # --------------Policy test ---------------------------------------------------------
     if POLICY_TEST:
@@ -176,10 +207,13 @@ if __name__=='__main__':
         osim_actuators = [i.getName() for i in osim_model.getActuators()]
 
         rng = jax.random.PRNGKey(0)
-        loco_observation = env.mjx_reset(rng) #Gets the initial state
+        loco_obs = env.reset() #Gets the initial observation
         osim_state = osim_model.initSystem()
 
-        print(loco_observation)
+        print([i.getName() for i in osim_model.getCoordinateSet()]) #This contaoins a bunch of upper body ones as well, but this does seem like joints
+
+        for o in env.obs_container.values():
+            print(f"idx {o.obs_ind}, name {o.name}, type {o.__class__.__name__}")
 
         osim_state = osim_model.initSystem()
         state_names = osim_model.getStateVariableNames()
@@ -187,8 +221,11 @@ if __name__=='__main__':
         all_states = [state_names.get(i) for i in range(state_names.getSize())]
         joint_values = [j for j in all_states if 'value' in j]
         joint_speeds = [j for j in all_states if 'speed' in j]
-        muscle_activations = [j for j in all_states if 'activation' in j]
-        muscle_fiber_lengths = [j for j in all_states if 'fiber' in j]
+        # muscle_activations = [j for j in all_states if 'activation' in j]
+        # muscle_fiber_lengths = [j for j in all_states if 'fiber' in j]
+        print(all_states)
+        # print(joint_values)
+        # print(joint_speeds)
 
 
         print('PASSED MODEL MATCHING TEST :)')

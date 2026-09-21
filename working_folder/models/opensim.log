@@ -708,3 +708,488 @@
 [2026-09-16 12:44:28.269] [warning] Couldn't find file 'bofoot.vtp'.
 [2026-09-16 12:44:28.279] [warning] Couldn't find file 'fibula_l.vtp'.
 [2026-09-16 12:44:28.280] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-16 13:15:11.603] [info] Updating Model file from 20001 to latest format...
+[2026-09-16 13:15:11.604] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-16 13:15:11.604] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-16 13:15:11.670] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-16 13:15:11.692] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-16 13:15:11.758] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-16 13:15:11.758] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-16 13:15:11.758] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-16 13:15:11.759] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-16 13:15:11.805] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-16 13:15:11.805] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-16 13:25:35.049] [info] Updating Model file from 20001 to latest format...
+[2026-09-16 13:25:35.050] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-16 13:25:35.050] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-16 13:25:35.084] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-16 13:25:35.087] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-16 13:25:35.098] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-16 13:25:35.098] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-16 13:25:35.098] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-16 13:25:35.099] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-16 13:25:35.109] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-16 13:25:35.109] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-16 14:17:34.914] [info] Updating Model file from 20001 to latest format...
+[2026-09-16 14:17:34.915] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-16 14:17:34.915] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-16 14:17:34.983] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-16 14:17:34.988] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-16 14:17:35.000] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-16 14:17:35.000] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-16 14:17:35.001] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-16 14:17:35.001] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-16 14:17:35.012] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-16 14:17:35.012] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-16 14:19:09.836] [info] Updating Model file from 20001 to latest format...
+[2026-09-16 14:19:09.887] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-16 14:19:09.887] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-16 14:19:09.915] [info] Loaded model 3DGaitModelwithSimpleArms from file C:\Users\freya\Documents\Systems and Control\Research Project\loco-mujoco\working_folder\models\Body_model_opensim.osim
+[2026-09-17 10:44:56.589] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 10:44:56.590] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 10:44:56.590] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 10:44:56.622] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-17 10:44:56.640] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-17 10:44:56.686] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-17 10:44:56.687] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-17 10:44:56.687] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-17 10:44:56.687] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-17 10:44:56.715] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-17 10:44:56.715] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-17 10:46:38.493] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 10:46:38.494] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 10:46:38.494] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 10:46:38.527] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-17 10:46:38.529] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-17 10:46:38.533] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-17 10:46:38.534] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-17 10:46:38.534] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-17 10:46:38.534] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-17 10:46:38.537] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-17 10:46:38.537] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-17 11:19:32.068] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 11:19:32.069] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 11:19:32.069] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 11:19:32.129] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-17 11:19:32.134] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-17 11:19:32.146] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-17 11:19:32.147] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-17 11:19:32.147] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-17 11:19:32.147] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-17 11:19:32.157] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-17 11:19:32.157] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-17 11:38:58.615] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 11:38:58.616] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 11:38:58.616] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 11:38:58.668] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-17 11:38:58.692] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-17 11:38:58.784] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-17 11:38:58.784] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-17 11:38:58.784] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-17 11:38:58.784] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-17 11:38:58.848] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-17 11:38:58.848] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-17 11:42:18.036] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 11:42:18.037] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 11:42:18.037] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 11:42:18.071] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-17 11:42:18.073] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-17 11:42:18.078] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-17 11:42:18.078] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-17 11:42:18.078] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-17 11:42:18.078] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-17 11:42:18.082] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-17 11:42:18.082] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-17 11:46:41.791] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 11:46:41.792] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 11:46:41.792] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 11:46:41.852] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-17 11:46:41.856] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-17 11:46:41.868] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-17 11:46:41.869] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-17 11:46:41.869] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-17 11:46:41.869] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-17 11:46:41.878] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-17 11:46:41.879] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-17 11:50:10.983] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 11:50:10.984] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 11:50:10.984] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 11:50:11.010] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-17 11:50:11.012] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-17 11:50:11.018] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-17 11:50:11.019] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-17 11:50:11.019] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-17 11:50:11.019] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-17 11:50:11.022] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-17 11:50:11.023] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-17 11:54:51.438] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 11:54:51.439] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 11:54:51.439] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 11:54:51.503] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-17 11:54:51.508] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-17 11:54:51.520] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-17 11:54:51.520] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-17 11:54:51.520] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-17 11:54:51.521] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-17 11:54:51.530] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-17 11:54:51.530] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-17 12:02:11.723] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 12:02:11.724] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 12:02:11.725] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 12:02:11.777] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-17 12:02:11.782] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-17 12:02:11.791] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-17 12:02:11.792] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-17 12:02:11.792] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-17 12:02:11.792] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-17 12:02:11.800] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-17 12:02:11.800] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-17 12:15:41.053] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 12:15:41.054] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 12:15:41.054] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 12:15:41.120] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-17 12:15:41.124] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-17 12:15:41.133] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-17 12:15:41.134] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-17 12:15:41.134] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-17 12:15:41.134] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-17 12:15:41.144] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-17 12:15:41.145] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-17 12:19:43.943] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 12:19:43.944] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 12:19:43.944] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 12:19:44.000] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-17 12:19:44.005] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-17 12:19:44.012] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-17 12:19:44.013] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-17 12:19:44.013] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-17 12:19:44.013] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-17 12:19:44.023] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-17 12:19:44.024] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-17 12:24:51.984] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 12:24:51.985] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 12:24:51.985] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 12:24:52.023] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-17 12:24:52.026] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-17 12:24:52.031] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-17 12:24:52.031] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-17 12:24:52.031] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-17 12:24:52.031] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-17 12:24:52.034] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-17 12:24:52.035] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-17 12:28:37.264] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 12:28:37.265] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 12:28:37.266] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 12:28:37.323] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-17 12:28:37.328] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-17 12:28:37.340] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-17 12:28:37.340] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-17 12:28:37.340] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-17 12:28:37.340] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-17 12:28:37.350] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-17 12:28:37.350] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-17 12:33:41.343] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 12:33:41.344] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 12:33:41.344] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 12:33:41.403] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-17 12:33:41.406] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-17 12:33:41.410] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-17 12:33:41.411] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-17 12:33:41.411] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-17 12:33:41.411] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-17 12:33:41.415] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-17 12:33:41.416] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-17 12:34:51.638] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 12:34:51.639] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 12:34:51.639] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 12:34:51.681] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-17 12:34:51.683] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-17 12:34:51.688] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-17 12:34:51.688] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-17 12:34:51.688] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-17 12:34:51.688] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-17 12:34:51.693] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-17 12:34:51.693] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-17 13:41:05.965] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 13:41:05.970] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 13:41:05.970] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 13:41:06.022] [info] Loaded model 3DGaitModelwithSimpleArms from file C:\Users\freya\Documents\Systems and Control\Research Project\loco-mujoco\working_folder\models\Body_model_opensim.osim
+[2026-09-17 14:17:47.903] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 14:17:47.904] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 14:17:47.905] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 14:17:47.964] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-17 14:17:47.969] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-17 14:17:47.982] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-17 14:17:47.982] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-17 14:17:47.982] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-17 14:17:47.982] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-17 14:17:47.991] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-17 14:17:47.991] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-17 14:52:32.195] [info] Updating Model file from 20001 to latest format...
+[2026-09-17 14:52:32.196] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-17 14:52:32.196] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-17 14:52:32.261] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-17 14:52:32.268] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-17 14:52:32.279] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-17 14:52:32.279] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-17 14:52:32.280] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-17 14:52:32.280] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-17 14:52:32.292] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-17 14:52:32.292] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 10:03:27.777] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 10:03:27.779] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 10:03:27.779] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 10:03:27.817] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 10:03:27.830] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 10:03:27.886] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 10:03:27.886] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 10:03:27.886] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 10:03:27.887] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 10:03:27.920] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 10:03:27.921] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 10:39:15.493] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 10:39:15.494] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 10:39:15.494] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 10:39:15.534] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 10:39:15.551] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 10:39:15.605] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 10:39:15.606] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 10:39:15.606] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 10:39:15.606] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 10:39:15.647] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 10:39:15.647] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 10:42:14.668] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 10:42:14.670] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 10:42:14.670] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 10:42:14.736] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 10:42:14.740] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 10:42:14.752] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 10:42:14.753] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 10:42:14.753] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 10:42:14.754] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 10:42:14.763] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 10:42:14.765] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 10:45:40.287] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 10:45:40.288] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 10:45:40.288] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 10:45:40.353] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 10:45:40.360] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 10:45:40.374] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 10:45:40.374] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 10:45:40.374] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 10:45:40.375] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 10:45:40.384] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 10:45:40.385] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 10:47:25.920] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 10:47:25.921] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 10:47:25.921] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 10:47:25.963] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 10:47:25.967] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 10:47:25.973] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 10:47:25.973] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 10:47:25.974] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 10:47:25.974] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 10:47:25.981] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 10:47:25.983] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 10:53:56.481] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 10:53:56.482] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 10:53:56.482] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 10:53:56.540] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 10:53:56.560] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 10:53:56.626] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 10:53:56.626] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 10:53:56.626] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 10:53:56.626] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 10:53:56.671] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 10:53:56.672] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 11:02:52.327] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 11:02:52.328] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 11:02:52.328] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 11:02:52.361] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 11:02:52.363] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 11:02:52.369] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 11:02:52.369] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 11:02:52.369] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 11:02:52.369] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 11:02:52.373] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 11:02:52.373] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 11:13:04.341] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 11:13:04.342] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 11:13:04.342] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 11:13:04.389] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 11:13:04.395] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 11:13:04.407] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 11:13:04.407] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 11:13:04.407] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 11:13:04.407] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 11:13:04.416] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 11:13:04.416] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 11:18:17.239] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 11:18:17.240] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 11:18:17.240] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 11:18:17.290] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 11:18:17.294] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 11:18:17.301] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 11:18:17.301] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 11:18:17.301] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 11:18:17.301] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 11:18:17.304] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 11:18:17.304] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 11:37:01.868] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 11:37:01.871] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 11:37:01.871] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 11:37:01.912] [info] Loaded model 3DGaitModelwithSimpleArms from file C:\Users\freya\Documents\Systems and Control\Research Project\loco-mujoco\working_folder\models\Body_model_opensim.osim
+[2026-09-21 12:35:45.519] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 12:35:45.520] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 12:35:45.520] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 12:35:45.567] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 12:35:45.572] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 12:35:45.583] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 12:35:45.584] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 12:35:45.584] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 12:35:45.585] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 12:35:45.593] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 12:35:45.594] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 12:48:53.170] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 12:48:53.171] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 12:48:53.171] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 12:48:53.209] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 12:48:53.213] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 12:48:53.220] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 12:48:53.220] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 12:48:53.220] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 12:48:53.221] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 12:48:53.225] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 12:48:53.225] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 13:14:21.346] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 13:14:21.347] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 13:14:21.348] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 13:14:21.412] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 13:14:21.415] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 13:14:21.428] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 13:14:21.428] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 13:14:21.429] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 13:14:21.429] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 13:14:21.439] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 13:14:21.439] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 13:17:11.097] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 13:17:11.098] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 13:17:11.098] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 13:17:11.161] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 13:17:11.166] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 13:17:11.179] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 13:17:11.179] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 13:17:11.179] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 13:17:11.180] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 13:17:11.190] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 13:17:11.190] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 13:20:05.562] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 13:20:05.563] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 13:20:05.563] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 13:20:05.625] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 13:20:05.630] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 13:20:05.641] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 13:20:05.642] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 13:20:05.642] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 13:20:05.642] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 13:20:05.650] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 13:20:05.650] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 13:20:24.965] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 13:20:24.966] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 13:20:24.966] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 13:20:25.025] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 13:20:25.031] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 13:20:25.044] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 13:20:25.044] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 13:20:25.044] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 13:20:25.045] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 13:20:25.057] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 13:20:25.057] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 13:20:53.253] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 13:20:53.253] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 13:20:53.254] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 13:20:53.283] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 13:20:53.286] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 13:20:53.291] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 13:20:53.292] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 13:20:53.292] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 13:20:53.292] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 13:20:53.302] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 13:20:53.302] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 13:31:54.902] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 13:31:54.903] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 13:31:54.903] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 13:31:54.956] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 13:31:54.960] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 13:31:54.972] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 13:31:54.972] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 13:31:54.972] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 13:31:54.972] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 13:31:54.982] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 13:31:54.982] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 13:32:16.272] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 13:32:16.273] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 13:32:16.273] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 13:32:16.330] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 13:32:16.333] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 13:32:16.344] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 13:32:16.344] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 13:32:16.345] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 13:32:16.345] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 13:32:16.354] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 13:32:16.355] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 13:34:02.485] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 13:34:02.486] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 13:34:02.486] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 13:34:02.553] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 13:34:02.557] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 13:34:02.568] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 13:34:02.568] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 13:34:02.568] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 13:34:02.568] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 13:34:02.573] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 13:34:02.574] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 13:35:08.476] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 13:35:08.478] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 13:35:08.478] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 13:35:08.522] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 13:35:08.526] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 13:35:08.539] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 13:35:08.539] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 13:35:08.540] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 13:35:08.540] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 13:35:08.549] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 13:35:08.549] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 13:35:44.626] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 13:35:44.627] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 13:35:44.627] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 13:35:44.662] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 13:35:44.665] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 13:35:44.673] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 13:35:44.673] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 13:35:44.673] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 13:35:44.673] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 13:35:44.681] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 13:35:44.681] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 13:36:18.298] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 13:36:18.299] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 13:36:18.299] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 13:36:18.358] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 13:36:18.363] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 13:36:18.378] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 13:36:18.378] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 13:36:18.379] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 13:36:18.379] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 13:36:18.390] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 13:36:18.390] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-21 13:50:03.624] [info] Updating Model file from 20001 to latest format...
+[2026-09-21 13:50:03.625] [warning] Model name '3D Gait Model with Simple Arms' contains whitespace.
+[2026-09-21 13:50:03.625] [warning] It was renamed to '3DGaitModelwithSimpleArms'.
+[2026-09-21 13:50:03.681] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-21 13:50:03.686] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-21 13:50:03.697] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-21 13:50:03.697] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-21 13:50:03.697] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-21 13:50:03.697] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-21 13:50:03.705] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-21 13:50:03.706] [warning] Couldn't find file 'talus_lv.vtp'.
