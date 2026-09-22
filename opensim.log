@@ -1,0 +1,2276 @@
+[2026-09-22 14:33:06.185] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim.osim
+[2026-09-22 14:33:06.189] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-22 14:33:06.198] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-22 14:33:06.198] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-22 14:33:06.198] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-22 14:33:06.198] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-22 14:33:06.204] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-22 14:33:06.205] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-22 14:33:08.082] [info] -------
+[2026-09-22 14:33:08.082] [info] Manager
+[2026-09-22 14:33:08.083] [info] -------
+[2026-09-22 14:33:08.093] [info] Starting integration at initial time 0.00 s...
+[2026-09-22 14:33:08.587] [info] Integration complete at final time 0.04 s.
+[2026-09-22 14:33:08.587] [info]  - CPU time elapsed: 0.453125 s
+[2026-09-22 14:33:08.587] [info]  - real time elapsed: 0.494298 s
+[2026-09-22 14:33:08.587] [info]  - ratio sim-to-real time: 0.081
+[2026-09-22 14:33:08.588] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:08.588] [info]  - number of realizations: 716
+[2026-09-22 14:33:08.588] [info]  - number of steps taken / attempted: 107 / 152
+[2026-09-22 14:33:08.588] [info]  - number of projections: 0
+[2026-09-22 14:33:08.588] [info]  - number of iterations: 152
+[2026-09-22 14:33:08.629] [info] -------
+[2026-09-22 14:33:08.629] [info] Manager
+[2026-09-22 14:33:08.629] [info] -------
+[2026-09-22 14:33:08.629] [info] Starting integration at initial time 0.04 s...
+[2026-09-22 14:33:08.795] [info] Integration complete at final time 0.08 s.
+[2026-09-22 14:33:08.795] [info]  - CPU time elapsed: 0.171875 s
+[2026-09-22 14:33:08.795] [info]  - real time elapsed: 0.165295 s
+[2026-09-22 14:33:08.795] [info]  - ratio sim-to-real time: 0.484
+[2026-09-22 14:33:08.795] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:08.796] [info]  - number of realizations: 249
+[2026-09-22 14:33:08.796] [info]  - number of steps taken / attempted: 32 / 54
+[2026-09-22 14:33:08.796] [info]  - number of projections: 2
+[2026-09-22 14:33:08.796] [info]  - number of iterations: 54
+[2026-09-22 14:33:08.827] [info] -------
+[2026-09-22 14:33:08.827] [info] Manager
+[2026-09-22 14:33:08.827] [info] -------
+[2026-09-22 14:33:08.827] [info] Starting integration at initial time 0.08 s...
+[2026-09-22 14:33:09.010] [info] Integration complete at final time 0.12 s.
+[2026-09-22 14:33:09.010] [info]  - CPU time elapsed: 0.171875 s
+[2026-09-22 14:33:09.010] [info]  - real time elapsed: 0.183035 s
+[2026-09-22 14:33:09.011] [info]  - ratio sim-to-real time: 0.656
+[2026-09-22 14:33:09.011] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:09.011] [info]  - number of realizations: 249
+[2026-09-22 14:33:09.011] [info]  - number of steps taken / attempted: 36 / 53
+[2026-09-22 14:33:09.011] [info]  - number of projections: 2
+[2026-09-22 14:33:09.011] [info]  - number of iterations: 53
+[2026-09-22 14:33:09.046] [info] -------
+[2026-09-22 14:33:09.046] [info] Manager
+[2026-09-22 14:33:09.046] [info] -------
+[2026-09-22 14:33:09.046] [info] Starting integration at initial time 0.12 s...
+[2026-09-22 14:33:09.242] [info] Integration complete at final time 0.16 s.
+[2026-09-22 14:33:09.243] [info]  - CPU time elapsed: 0.187500 s
+[2026-09-22 14:33:09.243] [info]  - real time elapsed: 0.196004 s
+[2026-09-22 14:33:09.243] [info]  - ratio sim-to-real time: 0.816
+[2026-09-22 14:33:09.243] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:09.243] [info]  - number of realizations: 263
+[2026-09-22 14:33:09.243] [info]  - number of steps taken / attempted: 38 / 56
+[2026-09-22 14:33:09.244] [info]  - number of projections: 2
+[2026-09-22 14:33:09.244] [info]  - number of iterations: 56
+[2026-09-22 14:33:09.294] [info] -------
+[2026-09-22 14:33:09.295] [info] Manager
+[2026-09-22 14:33:09.295] [info] -------
+[2026-09-22 14:33:09.295] [info] Starting integration at initial time 0.16 s...
+[2026-09-22 14:33:09.540] [info] Integration complete at final time 0.20 s.
+[2026-09-22 14:33:09.540] [info]  - CPU time elapsed: 0.234375 s
+[2026-09-22 14:33:09.540] [info]  - real time elapsed: 0.240224 s
+[2026-09-22 14:33:09.540] [info]  - ratio sim-to-real time: 0.833
+[2026-09-22 14:33:09.540] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:09.540] [info]  - number of realizations: 277
+[2026-09-22 14:33:09.540] [info]  - number of steps taken / attempted: 48 / 57
+[2026-09-22 14:33:09.541] [info]  - number of projections: 2
+[2026-09-22 14:33:09.541] [info]  - number of iterations: 57
+[2026-09-22 14:33:09.613] [info] -------
+[2026-09-22 14:33:09.613] [info] Manager
+[2026-09-22 14:33:09.613] [info] -------
+[2026-09-22 14:33:09.613] [info] Starting integration at initial time 0.20 s...
+[2026-09-22 14:33:09.760] [info] Integration complete at final time 0.24 s.
+[2026-09-22 14:33:09.760] [info]  - CPU time elapsed: 0.140625 s
+[2026-09-22 14:33:09.760] [info]  - real time elapsed: 0.146445 s
+[2026-09-22 14:33:09.760] [info]  - ratio sim-to-real time: 1.639
+[2026-09-22 14:33:09.760] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:09.761] [info]  - number of realizations: 167
+[2026-09-22 14:33:09.761] [info]  - number of steps taken / attempted: 26 / 35
+[2026-09-22 14:33:09.761] [info]  - number of projections: 2
+[2026-09-22 14:33:09.761] [info]  - number of iterations: 35
+[2026-09-22 14:33:09.807] [info] -------
+[2026-09-22 14:33:09.807] [info] Manager
+[2026-09-22 14:33:09.807] [info] -------
+[2026-09-22 14:33:09.807] [info] Starting integration at initial time 0.24 s...
+[2026-09-22 14:33:09.963] [info] Integration complete at final time 0.28 s.
+[2026-09-22 14:33:09.964] [info]  - CPU time elapsed: 0.156250 s
+[2026-09-22 14:33:09.964] [info]  - real time elapsed: 0.155783 s
+[2026-09-22 14:33:09.964] [info]  - ratio sim-to-real time: 1.797
+[2026-09-22 14:33:09.964] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:09.964] [info]  - number of realizations: 163
+[2026-09-22 14:33:09.964] [info]  - number of steps taken / attempted: 26 / 34
+[2026-09-22 14:33:09.964] [info]  - number of projections: 2
+[2026-09-22 14:33:09.964] [info]  - number of iterations: 34
+[2026-09-22 14:33:10.004] [info] -------
+[2026-09-22 14:33:10.004] [info] Manager
+[2026-09-22 14:33:10.005] [info] -------
+[2026-09-22 14:33:10.005] [info] Starting integration at initial time 0.28 s...
+[2026-09-22 14:33:10.127] [info] Integration complete at final time 0.32 s.
+[2026-09-22 14:33:10.128] [info]  - CPU time elapsed: 0.125000 s
+[2026-09-22 14:33:10.128] [info]  - real time elapsed: 0.122608 s
+[2026-09-22 14:33:10.128] [info]  - ratio sim-to-real time: 2.610
+[2026-09-22 14:33:10.128] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:10.128] [info]  - number of realizations: 158
+[2026-09-22 14:33:10.128] [info]  - number of steps taken / attempted: 25 / 33
+[2026-09-22 14:33:10.128] [info]  - number of projections: 2
+[2026-09-22 14:33:10.128] [info]  - number of iterations: 33
+[2026-09-22 14:33:10.172] [info] -------
+[2026-09-22 14:33:10.172] [info] Manager
+[2026-09-22 14:33:10.172] [info] -------
+[2026-09-22 14:33:10.173] [info] Starting integration at initial time 0.32 s...
+[2026-09-22 14:33:10.331] [info] Integration complete at final time 0.36 s.
+[2026-09-22 14:33:10.331] [info]  - CPU time elapsed: 0.156250 s
+[2026-09-22 14:33:10.332] [info]  - real time elapsed: 0.158347 s
+[2026-09-22 14:33:10.332] [info]  - ratio sim-to-real time: 2.273
+[2026-09-22 14:33:10.332] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:10.332] [info]  - number of realizations: 142
+[2026-09-22 14:33:10.332] [info]  - number of steps taken / attempted: 25 / 29
+[2026-09-22 14:33:10.332] [info]  - number of projections: 2
+[2026-09-22 14:33:10.332] [info]  - number of iterations: 29
+[2026-09-22 14:33:10.373] [info] -------
+[2026-09-22 14:33:10.373] [info] Manager
+[2026-09-22 14:33:10.373] [info] -------
+[2026-09-22 14:33:10.373] [info] Starting integration at initial time 0.36 s...
+[2026-09-22 14:33:10.505] [info] Integration complete at final time 0.40 s.
+[2026-09-22 14:33:10.505] [info]  - CPU time elapsed: 0.125000 s
+[2026-09-22 14:33:10.505] [info]  - real time elapsed: 0.131532 s
+[2026-09-22 14:33:10.506] [info]  - ratio sim-to-real time: 3.041
+[2026-09-22 14:33:10.506] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:10.506] [info]  - number of realizations: 139
+[2026-09-22 14:33:10.506] [info]  - number of steps taken / attempted: 22 / 29
+[2026-09-22 14:33:10.506] [info]  - number of projections: 2
+[2026-09-22 14:33:10.506] [info]  - number of iterations: 29
+[2026-09-22 14:33:10.560] [info] -------
+[2026-09-22 14:33:10.560] [info] Manager
+[2026-09-22 14:33:10.560] [info] -------
+[2026-09-22 14:33:10.560] [info] Starting integration at initial time 0.40 s...
+[2026-09-22 14:33:10.684] [info] Integration complete at final time 0.44 s.
+[2026-09-22 14:33:10.684] [info]  - CPU time elapsed: 0.109375 s
+[2026-09-22 14:33:10.685] [info]  - real time elapsed: 0.124075 s
+[2026-09-22 14:33:10.685] [info]  - ratio sim-to-real time: 3.546
+[2026-09-22 14:33:10.685] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:10.685] [info]  - number of realizations: 123
+[2026-09-22 14:33:10.685] [info]  - number of steps taken / attempted: 22 / 25
+[2026-09-22 14:33:10.685] [info]  - number of projections: 2
+[2026-09-22 14:33:10.685] [info]  - number of iterations: 25
+[2026-09-22 14:33:10.743] [info] -------
+[2026-09-22 14:33:10.744] [info] Manager
+[2026-09-22 14:33:10.744] [info] -------
+[2026-09-22 14:33:10.744] [info] Starting integration at initial time 0.44 s...
+[2026-09-22 14:33:10.944] [info] Integration complete at final time 0.48 s.
+[2026-09-22 14:33:10.944] [info]  - CPU time elapsed: 0.203125 s
+[2026-09-22 14:33:10.945] [info]  - real time elapsed: 0.200299 s
+[2026-09-22 14:33:10.945] [info]  - ratio sim-to-real time: 2.396
+[2026-09-22 14:33:10.945] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:10.945] [info]  - number of realizations: 228
+[2026-09-22 14:33:10.945] [info]  - number of steps taken / attempted: 27 / 50
+[2026-09-22 14:33:10.945] [info]  - number of projections: 2
+[2026-09-22 14:33:10.945] [info]  - number of iterations: 50
+[2026-09-22 14:33:10.996] [info] -------
+[2026-09-22 14:33:10.997] [info] Manager
+[2026-09-22 14:33:10.997] [info] -------
+[2026-09-22 14:33:10.997] [info] Starting integration at initial time 0.48 s...
+[2026-09-22 14:33:11.110] [info] Integration complete at final time 0.52 s.
+[2026-09-22 14:33:11.110] [info]  - CPU time elapsed: 0.109375 s
+[2026-09-22 14:33:11.111] [info]  - real time elapsed: 0.113109 s
+[2026-09-22 14:33:11.111] [info]  - ratio sim-to-real time: 4.597
+[2026-09-22 14:33:11.111] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:11.111] [info]  - number of realizations: 134
+[2026-09-22 14:33:11.111] [info]  - number of steps taken / attempted: 21 / 28
+[2026-09-22 14:33:11.111] [info]  - number of projections: 2
+[2026-09-22 14:33:11.111] [info]  - number of iterations: 28
+[2026-09-22 14:33:11.166] [info] -------
+[2026-09-22 14:33:11.166] [info] Manager
+[2026-09-22 14:33:11.167] [info] -------
+[2026-09-22 14:33:11.167] [info] Starting integration at initial time 0.52 s...
+[2026-09-22 14:33:11.256] [info] Integration complete at final time 0.56 s.
+[2026-09-22 14:33:11.257] [info]  - CPU time elapsed: 0.078125 s
+[2026-09-22 14:33:11.257] [info]  - real time elapsed: 0.089674 s
+[2026-09-22 14:33:11.257] [info]  - ratio sim-to-real time: 6.245
+[2026-09-22 14:33:11.257] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:11.257] [info]  - number of realizations: 130
+[2026-09-22 14:33:11.257] [info]  - number of steps taken / attempted: 21 / 27
+[2026-09-22 14:33:11.257] [info]  - number of projections: 2
+[2026-09-22 14:33:11.257] [info]  - number of iterations: 27
+[2026-09-22 14:33:11.301] [info] -------
+[2026-09-22 14:33:11.301] [info] Manager
+[2026-09-22 14:33:11.302] [info] -------
+[2026-09-22 14:33:11.302] [info] Starting integration at initial time 0.56 s...
+[2026-09-22 14:33:11.431] [info] Integration complete at final time 0.60 s.
+[2026-09-22 14:33:11.431] [info]  - CPU time elapsed: 0.125000 s
+[2026-09-22 14:33:11.431] [info]  - real time elapsed: 0.129365 s
+[2026-09-22 14:33:11.432] [info]  - ratio sim-to-real time: 4.638
+[2026-09-22 14:33:11.432] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:11.432] [info]  - number of realizations: 156
+[2026-09-22 14:33:11.432] [info]  - number of steps taken / attempted: 23 / 33
+[2026-09-22 14:33:11.432] [info]  - number of projections: 2
+[2026-09-22 14:33:11.432] [info]  - number of iterations: 33
+[2026-09-22 14:33:11.511] [info] -------
+[2026-09-22 14:33:11.511] [info] Manager
+[2026-09-22 14:33:11.511] [info] -------
+[2026-09-22 14:33:11.511] [info] Starting integration at initial time 0.60 s...
+[2026-09-22 14:33:11.647] [info] Integration complete at final time 0.64 s.
+[2026-09-22 14:33:11.647] [info]  - CPU time elapsed: 0.140625 s
+[2026-09-22 14:33:11.647] [info]  - real time elapsed: 0.135420 s
+[2026-09-22 14:33:11.647] [info]  - ratio sim-to-real time: 4.726
+[2026-09-22 14:33:11.647] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:11.648] [info]  - number of realizations: 170
+[2026-09-22 14:33:11.648] [info]  - number of steps taken / attempted: 25 / 36
+[2026-09-22 14:33:11.648] [info]  - number of projections: 2
+[2026-09-22 14:33:11.648] [info]  - number of iterations: 36
+[2026-09-22 14:33:11.705] [info] -------
+[2026-09-22 14:33:11.705] [info] Manager
+[2026-09-22 14:33:11.705] [info] -------
+[2026-09-22 14:33:11.705] [info] Starting integration at initial time 0.64 s...
+[2026-09-22 14:33:11.808] [info] Integration complete at final time 0.68 s.
+[2026-09-22 14:33:11.808] [info]  - CPU time elapsed: 0.093750 s
+[2026-09-22 14:33:11.808] [info]  - real time elapsed: 0.102470 s
+[2026-09-22 14:33:11.809] [info]  - ratio sim-to-real time: 6.636
+[2026-09-22 14:33:11.809] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:11.809] [info]  - number of realizations: 160
+[2026-09-22 14:33:11.809] [info]  - number of steps taken / attempted: 27 / 33
+[2026-09-22 14:33:11.809] [info]  - number of projections: 2
+[2026-09-22 14:33:11.809] [info]  - number of iterations: 33
+[2026-09-22 14:33:11.847] [info] -------
+[2026-09-22 14:33:11.847] [info] Manager
+[2026-09-22 14:33:11.847] [info] -------
+[2026-09-22 14:33:11.847] [info] Starting integration at initial time 0.68 s...
+[2026-09-22 14:33:12.067] [info] Integration complete at final time 0.72 s.
+[2026-09-22 14:33:12.067] [info]  - CPU time elapsed: 0.218750 s
+[2026-09-22 14:33:12.067] [info]  - real time elapsed: 0.219888 s
+[2026-09-22 14:33:12.068] [info]  - ratio sim-to-real time: 3.274
+[2026-09-22 14:33:12.068] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:12.068] [info]  - number of realizations: 294
+[2026-09-22 14:33:12.068] [info]  - number of steps taken / attempted: 41 / 63
+[2026-09-22 14:33:12.068] [info]  - number of projections: 2
+[2026-09-22 14:33:12.068] [info]  - number of iterations: 63
+[2026-09-22 14:33:12.121] [info] -------
+[2026-09-22 14:33:12.121] [info] Manager
+[2026-09-22 14:33:12.122] [info] -------
+[2026-09-22 14:33:12.122] [info] Starting integration at initial time 0.72 s...
+[2026-09-22 14:33:12.413] [info] Integration complete at final time 0.76 s.
+[2026-09-22 14:33:12.413] [info]  - CPU time elapsed: 0.281250 s
+[2026-09-22 14:33:12.414] [info]  - real time elapsed: 0.291335 s
+[2026-09-22 14:33:12.414] [info]  - ratio sim-to-real time: 2.609
+[2026-09-22 14:33:12.414] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:12.414] [info]  - number of realizations: 426
+[2026-09-22 14:33:12.414] [info]  - number of steps taken / attempted: 61 / 91
+[2026-09-22 14:33:12.414] [info]  - number of projections: 2
+[2026-09-22 14:33:12.414] [info]  - number of iterations: 91
+[2026-09-22 14:33:12.457] [info] -------
+[2026-09-22 14:33:12.457] [info] Manager
+[2026-09-22 14:33:12.457] [info] -------
+[2026-09-22 14:33:12.457] [info] Starting integration at initial time 0.76 s...
+[2026-09-22 14:33:12.723] [info] Integration complete at final time 0.80 s.
+[2026-09-22 14:33:12.723] [info]  - CPU time elapsed: 0.265625 s
+[2026-09-22 14:33:12.723] [info]  - real time elapsed: 0.265578 s
+[2026-09-22 14:33:12.723] [info]  - ratio sim-to-real time: 3.012
+[2026-09-22 14:33:12.723] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:12.723] [info]  - number of realizations: 440
+[2026-09-22 14:33:12.723] [info]  - number of steps taken / attempted: 54 / 96
+[2026-09-22 14:33:12.723] [info]  - number of projections: 2
+[2026-09-22 14:33:12.723] [info]  - number of iterations: 96
+[2026-09-22 14:33:12.809] [info] -------
+[2026-09-22 14:33:12.809] [info] Manager
+[2026-09-22 14:33:12.809] [info] -------
+[2026-09-22 14:33:12.810] [info] Starting integration at initial time 0.80 s...
+[2026-09-22 14:33:13.026] [info] Integration complete at final time 0.84 s.
+[2026-09-22 14:33:13.026] [info]  - CPU time elapsed: 0.187500 s
+[2026-09-22 14:33:13.026] [info]  - real time elapsed: 0.216307 s
+[2026-09-22 14:33:13.026] [info]  - ratio sim-to-real time: 3.883
+[2026-09-22 14:33:13.026] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:13.026] [info]  - number of realizations: 258
+[2026-09-22 14:33:13.027] [info]  - number of steps taken / attempted: 41 / 54
+[2026-09-22 14:33:13.027] [info]  - number of projections: 2
+[2026-09-22 14:33:13.027] [info]  - number of iterations: 54
+[2026-09-22 14:33:13.070] [info] -------
+[2026-09-22 14:33:13.070] [info] Manager
+[2026-09-22 14:33:13.070] [info] -------
+[2026-09-22 14:33:13.070] [info] Starting integration at initial time 0.84 s...
+[2026-09-22 14:33:13.281] [info] Integration complete at final time 0.88 s.
+[2026-09-22 14:33:13.281] [info]  - CPU time elapsed: 0.203125 s
+[2026-09-22 14:33:13.281] [info]  - real time elapsed: 0.210421 s
+[2026-09-22 14:33:13.281] [info]  - ratio sim-to-real time: 4.182
+[2026-09-22 14:33:13.281] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:13.281] [info]  - number of realizations: 283
+[2026-09-22 14:33:13.281] [info]  - number of steps taken / attempted: 46 / 59
+[2026-09-22 14:33:13.281] [info]  - number of projections: 2
+[2026-09-22 14:33:13.282] [info]  - number of iterations: 59
+[2026-09-22 14:33:13.325] [info] -------
+[2026-09-22 14:33:13.326] [info] Manager
+[2026-09-22 14:33:13.326] [info] -------
+[2026-09-22 14:33:13.326] [info] Starting integration at initial time 0.88 s...
+[2026-09-22 14:33:13.459] [info] Integration complete at final time 0.92 s.
+[2026-09-22 14:33:13.459] [info]  - CPU time elapsed: 0.125000 s
+[2026-09-22 14:33:13.459] [info]  - real time elapsed: 0.133072 s
+[2026-09-22 14:33:13.460] [info]  - ratio sim-to-real time: 6.914
+[2026-09-22 14:33:13.460] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:13.460] [info]  - number of realizations: 192
+[2026-09-22 14:33:13.460] [info]  - number of steps taken / attempted: 31 / 40
+[2026-09-22 14:33:13.460] [info]  - number of projections: 2
+[2026-09-22 14:33:13.460] [info]  - number of iterations: 40
+[2026-09-22 14:33:13.503] [info] -------
+[2026-09-22 14:33:13.503] [info] Manager
+[2026-09-22 14:33:13.504] [info] -------
+[2026-09-22 14:33:13.504] [info] Starting integration at initial time 0.92 s...
+[2026-09-22 14:33:13.686] [info] Integration complete at final time 0.96 s.
+[2026-09-22 14:33:13.686] [info]  - CPU time elapsed: 0.187500 s
+[2026-09-22 14:33:13.687] [info]  - real time elapsed: 0.182571 s
+[2026-09-22 14:33:13.687] [info]  - ratio sim-to-real time: 5.258
+[2026-09-22 14:33:13.687] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:13.687] [info]  - number of realizations: 169
+[2026-09-22 14:33:13.687] [info]  - number of steps taken / attempted: 28 / 35
+[2026-09-22 14:33:13.687] [info]  - number of projections: 2
+[2026-09-22 14:33:13.687] [info]  - number of iterations: 35
+[2026-09-22 14:33:13.748] [info] -------
+[2026-09-22 14:33:13.748] [info] Manager
+[2026-09-22 14:33:13.748] [info] -------
+[2026-09-22 14:33:13.748] [info] Starting integration at initial time 0.96 s...
+[2026-09-22 14:33:13.957] [info] Integration complete at final time 1.00 s.
+[2026-09-22 14:33:13.957] [info]  - CPU time elapsed: 0.203125 s
+[2026-09-22 14:33:13.957] [info]  - real time elapsed: 0.208392 s
+[2026-09-22 14:33:13.957] [info]  - ratio sim-to-real time: 4.799
+[2026-09-22 14:33:13.957] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:13.957] [info]  - number of realizations: 189
+[2026-09-22 14:33:13.957] [info]  - number of steps taken / attempted: 31 / 39
+[2026-09-22 14:33:13.957] [info]  - number of projections: 2
+[2026-09-22 14:33:13.958] [info]  - number of iterations: 39
+[2026-09-22 14:33:14.046] [info] -------
+[2026-09-22 14:33:14.046] [info] Manager
+[2026-09-22 14:33:14.047] [info] -------
+[2026-09-22 14:33:14.047] [info] Starting integration at initial time 1.00 s...
+[2026-09-22 14:33:14.248] [info] Integration complete at final time 1.04 s.
+[2026-09-22 14:33:14.249] [info]  - CPU time elapsed: 0.203125 s
+[2026-09-22 14:33:14.249] [info]  - real time elapsed: 0.201533 s
+[2026-09-22 14:33:14.249] [info]  - ratio sim-to-real time: 5.160
+[2026-09-22 14:33:14.249] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:14.249] [info]  - number of realizations: 250
+[2026-09-22 14:33:14.249] [info]  - number of steps taken / attempted: 37 / 53
+[2026-09-22 14:33:14.249] [info]  - number of projections: 2
+[2026-09-22 14:33:14.249] [info]  - number of iterations: 53
+[2026-09-22 14:33:14.287] [info] -------
+[2026-09-22 14:33:14.287] [info] Manager
+[2026-09-22 14:33:14.287] [info] -------
+[2026-09-22 14:33:14.287] [info] Starting integration at initial time 1.04 s...
+[2026-09-22 14:33:14.519] [info] Integration complete at final time 1.08 s.
+[2026-09-22 14:33:14.519] [info]  - CPU time elapsed: 0.234375 s
+[2026-09-22 14:33:14.519] [info]  - real time elapsed: 0.231533 s
+[2026-09-22 14:33:14.519] [info]  - ratio sim-to-real time: 4.665
+[2026-09-22 14:33:14.519] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:14.519] [info]  - number of realizations: 217
+[2026-09-22 14:33:14.520] [info]  - number of steps taken / attempted: 40 / 44
+[2026-09-22 14:33:14.520] [info]  - number of projections: 2
+[2026-09-22 14:33:14.520] [info]  - number of iterations: 44
+[2026-09-22 14:33:14.560] [info] -------
+[2026-09-22 14:33:14.560] [info] Manager
+[2026-09-22 14:33:14.560] [info] -------
+[2026-09-22 14:33:14.560] [info] Starting integration at initial time 1.08 s...
+[2026-09-22 14:33:15.032] [info] Integration complete at final time 1.12 s.
+[2026-09-22 14:33:15.032] [info]  - CPU time elapsed: 0.453125 s
+[2026-09-22 14:33:15.032] [info]  - real time elapsed: 0.471437 s
+[2026-09-22 14:33:15.032] [info]  - ratio sim-to-real time: 2.376
+[2026-09-22 14:33:15.033] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:15.033] [info]  - number of realizations: 653
+[2026-09-22 14:33:15.033] [info]  - number of steps taken / attempted: 84 / 142
+[2026-09-22 14:33:15.033] [info]  - number of projections: 2
+[2026-09-22 14:33:15.033] [info]  - number of iterations: 142
+[2026-09-22 14:33:15.078] [info] -------
+[2026-09-22 14:33:15.078] [info] Manager
+[2026-09-22 14:33:15.078] [info] -------
+[2026-09-22 14:33:15.079] [info] Starting integration at initial time 1.12 s...
+[2026-09-22 14:33:15.505] [info] Integration complete at final time 1.16 s.
+[2026-09-22 14:33:15.505] [info]  - CPU time elapsed: 0.421875 s
+[2026-09-22 14:33:15.506] [info]  - real time elapsed: 0.426610 s
+[2026-09-22 14:33:15.506] [info]  - ratio sim-to-real time: 2.719
+[2026-09-22 14:33:15.506] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:15.506] [info]  - number of realizations: 501
+[2026-09-22 14:33:15.506] [info]  - number of steps taken / attempted: 68 / 108
+[2026-09-22 14:33:15.506] [info]  - number of projections: 2
+[2026-09-22 14:33:15.506] [info]  - number of iterations: 108
+[2026-09-22 14:33:15.552] [info] -------
+[2026-09-22 14:33:15.552] [info] Manager
+[2026-09-22 14:33:15.552] [info] -------
+[2026-09-22 14:33:15.552] [info] Starting integration at initial time 1.16 s...
+[2026-09-22 14:33:15.923] [info] Integration complete at final time 1.20 s.
+[2026-09-22 14:33:15.923] [info]  - CPU time elapsed: 0.375000 s
+[2026-09-22 14:33:15.923] [info]  - real time elapsed: 0.370488 s
+[2026-09-22 14:33:15.923] [info]  - ratio sim-to-real time: 3.239
+[2026-09-22 14:33:15.923] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:15.924] [info]  - number of realizations: 489
+[2026-09-22 14:33:15.924] [info]  - number of steps taken / attempted: 63 / 106
+[2026-09-22 14:33:15.924] [info]  - number of projections: 2
+[2026-09-22 14:33:15.924] [info]  - number of iterations: 106
+[2026-09-22 14:33:16.018] [info] -------
+[2026-09-22 14:33:16.018] [info] Manager
+[2026-09-22 14:33:16.018] [info] -------
+[2026-09-22 14:33:16.019] [info] Starting integration at initial time 1.20 s...
+[2026-09-22 14:33:16.160] [info] Integration complete at final time 1.24 s.
+[2026-09-22 14:33:16.160] [info]  - CPU time elapsed: 0.125000 s
+[2026-09-22 14:33:16.160] [info]  - real time elapsed: 0.140845 s
+[2026-09-22 14:33:16.160] [info]  - ratio sim-to-real time: 8.804
+[2026-09-22 14:33:16.160] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:16.160] [info]  - number of realizations: 196
+[2026-09-22 14:33:16.160] [info]  - number of steps taken / attempted: 35 / 40
+[2026-09-22 14:33:16.160] [info]  - number of projections: 2
+[2026-09-22 14:33:16.160] [info]  - number of iterations: 40
+[2026-09-22 14:33:16.214] [info] -------
+[2026-09-22 14:33:16.214] [info] Manager
+[2026-09-22 14:33:16.215] [info] -------
+[2026-09-22 14:33:16.215] [info] Starting integration at initial time 1.24 s...
+[2026-09-22 14:33:16.370] [info] Integration complete at final time 1.28 s.
+[2026-09-22 14:33:16.370] [info]  - CPU time elapsed: 0.140625 s
+[2026-09-22 14:33:16.370] [info]  - real time elapsed: 0.155421 s
+[2026-09-22 14:33:16.371] [info]  - ratio sim-to-real time: 8.236
+[2026-09-22 14:33:16.371] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:16.371] [info]  - number of realizations: 254
+[2026-09-22 14:33:16.371] [info]  - number of steps taken / attempted: 41 / 53
+[2026-09-22 14:33:16.371] [info]  - number of projections: 2
+[2026-09-22 14:33:16.371] [info]  - number of iterations: 53
+[2026-09-22 14:33:16.396] [info] -------
+[2026-09-22 14:33:16.396] [info] Manager
+[2026-09-22 14:33:16.396] [info] -------
+[2026-09-22 14:33:16.396] [info] Starting integration at initial time 1.28 s...
+[2026-09-22 14:33:16.924] [info] Integration complete at final time 1.32 s.
+[2026-09-22 14:33:16.924] [info]  - CPU time elapsed: 0.515625 s
+[2026-09-22 14:33:16.924] [info]  - real time elapsed: 0.527088 s
+[2026-09-22 14:33:16.924] [info]  - ratio sim-to-real time: 2.504
+[2026-09-22 14:33:16.924] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:16.925] [info]  - number of realizations: 702
+[2026-09-22 14:33:16.925] [info]  - number of steps taken / attempted: 89 / 153
+[2026-09-22 14:33:16.925] [info]  - number of projections: 2
+[2026-09-22 14:33:16.925] [info]  - number of iterations: 153
+[2026-09-22 14:33:16.976] [info] -------
+[2026-09-22 14:33:16.977] [info] Manager
+[2026-09-22 14:33:16.977] [info] -------
+[2026-09-22 14:33:16.977] [info] Starting integration at initial time 1.32 s...
+[2026-09-22 14:33:17.531] [info] Integration complete at final time 1.36 s.
+[2026-09-22 14:33:17.531] [info]  - CPU time elapsed: 0.562500 s
+[2026-09-22 14:33:17.531] [info]  - real time elapsed: 0.553808 s
+[2026-09-22 14:33:17.531] [info]  - ratio sim-to-real time: 2.456
+[2026-09-22 14:33:17.531] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:17.531] [info]  - number of realizations: 937
+[2026-09-22 14:33:17.532] [info]  - number of steps taken / attempted: 112 / 206
+[2026-09-22 14:33:17.532] [info]  - number of projections: 2
+[2026-09-22 14:33:17.532] [info]  - number of iterations: 206
+[2026-09-22 14:33:17.577] [info] -------
+[2026-09-22 14:33:17.577] [info] Manager
+[2026-09-22 14:33:17.577] [info] -------
+[2026-09-22 14:33:17.577] [info] Starting integration at initial time 1.36 s...
+[2026-09-22 14:33:17.976] [info] Integration complete at final time 1.40 s.
+[2026-09-22 14:33:17.977] [info]  - CPU time elapsed: 0.390625 s
+[2026-09-22 14:33:17.977] [info]  - real time elapsed: 0.399231 s
+[2026-09-22 14:33:17.977] [info]  - ratio sim-to-real time: 3.507
+[2026-09-22 14:33:17.977] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:17.977] [info]  - number of realizations: 689
+[2026-09-22 14:33:17.977] [info]  - number of steps taken / attempted: 83 / 151
+[2026-09-22 14:33:17.977] [info]  - number of projections: 2
+[2026-09-22 14:33:17.977] [info]  - number of iterations: 151
+[2026-09-22 14:33:18.069] [info] -------
+[2026-09-22 14:33:18.069] [info] Manager
+[2026-09-22 14:33:18.069] [info] -------
+[2026-09-22 14:33:18.069] [info] Starting integration at initial time 1.40 s...
+[2026-09-22 14:33:18.181] [info] Integration complete at final time 1.44 s.
+[2026-09-22 14:33:18.181] [info]  - CPU time elapsed: 0.109375 s
+[2026-09-22 14:33:18.182] [info]  - real time elapsed: 0.111703 s
+[2026-09-22 14:33:18.182] [info]  - ratio sim-to-real time: 12.891
+[2026-09-22 14:33:18.182] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:18.182] [info]  - number of realizations: 180
+[2026-09-22 14:33:18.182] [info]  - number of steps taken / attempted: 31 / 37
+[2026-09-22 14:33:18.182] [info]  - number of projections: 2
+[2026-09-22 14:33:18.182] [info]  - number of iterations: 37
+[2026-09-22 14:33:18.245] [info] -------
+[2026-09-22 14:33:18.246] [info] Manager
+[2026-09-22 14:33:18.246] [info] -------
+[2026-09-22 14:33:18.246] [info] Starting integration at initial time 1.44 s...
+[2026-09-22 14:33:18.394] [info] Integration complete at final time 1.48 s.
+[2026-09-22 14:33:18.394] [info]  - CPU time elapsed: 0.156250 s
+[2026-09-22 14:33:18.394] [info]  - real time elapsed: 0.147848 s
+[2026-09-22 14:33:18.394] [info]  - ratio sim-to-real time: 10.010
+[2026-09-22 14:33:18.394] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:18.394] [info]  - number of realizations: 229
+[2026-09-22 14:33:18.394] [info]  - number of steps taken / attempted: 36 / 48
+[2026-09-22 14:33:18.395] [info]  - number of projections: 2
+[2026-09-22 14:33:18.395] [info]  - number of iterations: 48
+[2026-09-22 14:33:18.450] [info] -------
+[2026-09-22 14:33:18.450] [info] Manager
+[2026-09-22 14:33:18.450] [info] -------
+[2026-09-22 14:33:18.450] [info] Starting integration at initial time 1.48 s...
+[2026-09-22 14:33:18.764] [info] Integration complete at final time 1.52 s.
+[2026-09-22 14:33:18.765] [info]  - CPU time elapsed: 0.312500 s
+[2026-09-22 14:33:18.765] [info]  - real time elapsed: 0.314108 s
+[2026-09-22 14:33:18.765] [info]  - ratio sim-to-real time: 4.839
+[2026-09-22 14:33:18.765] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:18.765] [info]  - number of realizations: 489
+[2026-09-22 14:33:18.765] [info]  - number of steps taken / attempted: 56 / 108
+[2026-09-22 14:33:18.765] [info]  - number of projections: 2
+[2026-09-22 14:33:18.765] [info]  - number of iterations: 108
+[2026-09-22 14:33:18.791] [info] -------
+[2026-09-22 14:33:18.791] [info] Manager
+[2026-09-22 14:33:18.791] [info] -------
+[2026-09-22 14:33:18.791] [info] Starting integration at initial time 1.52 s...
+[2026-09-22 14:33:19.245] [info] Integration complete at final time 1.56 s.
+[2026-09-22 14:33:19.245] [info]  - CPU time elapsed: 0.421875 s
+[2026-09-22 14:33:19.245] [info]  - real time elapsed: 0.453040 s
+[2026-09-22 14:33:19.245] [info]  - ratio sim-to-real time: 3.443
+[2026-09-22 14:33:19.245] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:19.245] [info]  - number of realizations: 624
+[2026-09-22 14:33:19.245] [info]  - number of steps taken / attempted: 71 / 138
+[2026-09-22 14:33:19.245] [info]  - number of projections: 2
+[2026-09-22 14:33:19.246] [info]  - number of iterations: 138
+[2026-09-22 14:33:19.285] [info] -------
+[2026-09-22 14:33:19.286] [info] Manager
+[2026-09-22 14:33:19.286] [info] -------
+[2026-09-22 14:33:19.286] [info] Starting integration at initial time 1.56 s...
+[2026-09-22 14:33:19.693] [info] Integration complete at final time 1.60 s.
+[2026-09-22 14:33:19.693] [info]  - CPU time elapsed: 0.406250 s
+[2026-09-22 14:33:19.693] [info]  - real time elapsed: 0.406893 s
+[2026-09-22 14:33:19.693] [info]  - ratio sim-to-real time: 3.932
+[2026-09-22 14:33:19.694] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:19.694] [info]  - number of realizations: 582
+[2026-09-22 14:33:19.694] [info]  - number of steps taken / attempted: 68 / 128
+[2026-09-22 14:33:19.694] [info]  - number of projections: 2
+[2026-09-22 14:33:19.694] [info]  - number of iterations: 128
+[2026-09-22 14:33:19.778] [info] -------
+[2026-09-22 14:33:19.778] [info] Manager
+[2026-09-22 14:33:19.779] [info] -------
+[2026-09-22 14:33:19.779] [info] Starting integration at initial time 1.60 s...
+[2026-09-22 14:33:20.060] [info] Integration complete at final time 1.64 s.
+[2026-09-22 14:33:20.060] [info]  - CPU time elapsed: 0.265625 s
+[2026-09-22 14:33:20.060] [info]  - real time elapsed: 0.280871 s
+[2026-09-22 14:33:20.060] [info]  - ratio sim-to-real time: 5.839
+[2026-09-22 14:33:20.060] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:20.060] [info]  - number of realizations: 377
+[2026-09-22 14:33:20.060] [info]  - number of steps taken / attempted: 48 / 82
+[2026-09-22 14:33:20.060] [info]  - number of projections: 2
+[2026-09-22 14:33:20.060] [info]  - number of iterations: 82
+[2026-09-22 14:33:20.085] [info] -------
+[2026-09-22 14:33:20.085] [info] Manager
+[2026-09-22 14:33:20.085] [info] -------
+[2026-09-22 14:33:20.085] [info] Starting integration at initial time 1.64 s...
+[2026-09-22 14:33:20.273] [info] Integration complete at final time 1.68 s.
+[2026-09-22 14:33:20.273] [info]  - CPU time elapsed: 0.187500 s
+[2026-09-22 14:33:20.273] [info]  - real time elapsed: 0.187514 s
+[2026-09-22 14:33:20.273] [info]  - ratio sim-to-real time: 8.959
+[2026-09-22 14:33:20.273] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:20.273] [info]  - number of realizations: 360
+[2026-09-22 14:33:20.273] [info]  - number of steps taken / attempted: 55 / 76
+[2026-09-22 14:33:20.273] [info]  - number of projections: 2
+[2026-09-22 14:33:20.274] [info]  - number of iterations: 76
+[2026-09-22 14:33:20.297] [info] -------
+[2026-09-22 14:33:20.297] [info] Manager
+[2026-09-22 14:33:20.298] [info] -------
+[2026-09-22 14:33:20.298] [info] Starting integration at initial time 1.68 s...
+[2026-09-22 14:33:20.701] [info] Integration complete at final time 1.72 s.
+[2026-09-22 14:33:20.701] [info]  - CPU time elapsed: 0.390625 s
+[2026-09-22 14:33:20.701] [info]  - real time elapsed: 0.402751 s
+[2026-09-22 14:33:20.701] [info]  - ratio sim-to-real time: 4.271
+[2026-09-22 14:33:20.701] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:20.701] [info]  - number of realizations: 485
+[2026-09-22 14:33:20.701] [info]  - number of steps taken / attempted: 64 / 105
+[2026-09-22 14:33:20.702] [info]  - number of projections: 2
+[2026-09-22 14:33:20.702] [info]  - number of iterations: 105
+[2026-09-22 14:33:20.738] [info] -------
+[2026-09-22 14:33:20.738] [info] Manager
+[2026-09-22 14:33:20.738] [info] -------
+[2026-09-22 14:33:20.738] [info] Starting integration at initial time 1.72 s...
+[2026-09-22 14:33:21.134] [info] Integration complete at final time 1.76 s.
+[2026-09-22 14:33:21.135] [info]  - CPU time elapsed: 0.390625 s
+[2026-09-22 14:33:21.135] [info]  - real time elapsed: 0.395713 s
+[2026-09-22 14:33:21.135] [info]  - ratio sim-to-real time: 4.448
+[2026-09-22 14:33:21.135] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:21.135] [info]  - number of realizations: 706
+[2026-09-22 14:33:21.135] [info]  - number of steps taken / attempted: 89 / 154
+[2026-09-22 14:33:21.135] [info]  - number of projections: 2
+[2026-09-22 14:33:21.135] [info]  - number of iterations: 154
+[2026-09-22 14:33:21.162] [info] -------
+[2026-09-22 14:33:21.163] [info] Manager
+[2026-09-22 14:33:21.163] [info] -------
+[2026-09-22 14:33:21.163] [info] Starting integration at initial time 1.76 s...
+[2026-09-22 14:33:21.775] [info] Integration complete at final time 1.80 s.
+[2026-09-22 14:33:21.775] [info]  - CPU time elapsed: 0.593750 s
+[2026-09-22 14:33:21.776] [info]  - real time elapsed: 0.612410 s
+[2026-09-22 14:33:21.776] [info]  - ratio sim-to-real time: 2.939
+[2026-09-22 14:33:21.776] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:21.776] [info]  - number of realizations: 942
+[2026-09-22 14:33:21.776] [info]  - number of steps taken / attempted: 116 / 206
+[2026-09-22 14:33:21.776] [info]  - number of projections: 2
+[2026-09-22 14:33:21.776] [info]  - number of iterations: 206
+[2026-09-22 14:33:21.850] [info] -------
+[2026-09-22 14:33:21.850] [info] Manager
+[2026-09-22 14:33:21.850] [info] -------
+[2026-09-22 14:33:21.850] [info] Starting integration at initial time 1.80 s...
+[2026-09-22 14:33:22.413] [info] Integration complete at final time 1.84 s.
+[2026-09-22 14:33:22.413] [info]  - CPU time elapsed: 0.562500 s
+[2026-09-22 14:33:22.413] [info]  - real time elapsed: 0.562465 s
+[2026-09-22 14:33:22.413] [info]  - ratio sim-to-real time: 3.271
+[2026-09-22 14:33:22.413] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:22.414] [info]  - number of realizations: 908
+[2026-09-22 14:33:22.414] [info]  - number of steps taken / attempted: 111 / 199
+[2026-09-22 14:33:22.414] [info]  - number of projections: 2
+[2026-09-22 14:33:22.414] [info]  - number of iterations: 199
+[2026-09-22 14:33:22.460] [info] -------
+[2026-09-22 14:33:22.460] [info] Manager
+[2026-09-22 14:33:22.460] [info] -------
+[2026-09-22 14:33:22.460] [info] Starting integration at initial time 1.84 s...
+[2026-09-22 14:33:22.940] [info] Integration complete at final time 1.88 s.
+[2026-09-22 14:33:22.940] [info]  - CPU time elapsed: 0.484375 s
+[2026-09-22 14:33:22.940] [info]  - real time elapsed: 0.479380 s
+[2026-09-22 14:33:22.940] [info]  - ratio sim-to-real time: 3.922
+[2026-09-22 14:33:22.940] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:22.940] [info]  - number of realizations: 890
+[2026-09-22 14:33:22.941] [info]  - number of steps taken / attempted: 113 / 194
+[2026-09-22 14:33:22.941] [info]  - number of projections: 2
+[2026-09-22 14:33:22.941] [info]  - number of iterations: 194
+[2026-09-22 14:33:22.980] [info] -------
+[2026-09-22 14:33:22.980] [info] Manager
+[2026-09-22 14:33:22.980] [info] -------
+[2026-09-22 14:33:22.980] [info] Starting integration at initial time 1.88 s...
+[2026-09-22 14:33:23.290] [info] Integration complete at final time 1.92 s.
+[2026-09-22 14:33:23.290] [info]  - CPU time elapsed: 0.296875 s
+[2026-09-22 14:33:23.290] [info]  - real time elapsed: 0.309633 s
+[2026-09-22 14:33:23.290] [info]  - ratio sim-to-real time: 6.201
+[2026-09-22 14:33:23.290] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:23.290] [info]  - number of realizations: 517
+[2026-09-22 14:33:23.290] [info]  - number of steps taken / attempted: 68 / 112
+[2026-09-22 14:33:23.290] [info]  - number of projections: 2
+[2026-09-22 14:33:23.290] [info]  - number of iterations: 112
+[2026-09-22 14:33:23.320] [info] -------
+[2026-09-22 14:33:23.320] [info] Manager
+[2026-09-22 14:33:23.320] [info] -------
+[2026-09-22 14:33:23.320] [info] Starting integration at initial time 1.92 s...
+[2026-09-22 14:33:23.963] [info] Integration complete at final time 1.96 s.
+[2026-09-22 14:33:23.963] [info]  - CPU time elapsed: 0.640625 s
+[2026-09-22 14:33:23.963] [info]  - real time elapsed: 0.642849 s
+[2026-09-22 14:33:23.964] [info]  - ratio sim-to-real time: 3.049
+[2026-09-22 14:33:23.964] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:23.964] [info]  - number of realizations: 1151
+[2026-09-22 14:33:23.964] [info]  - number of steps taken / attempted: 134 / 254
+[2026-09-22 14:33:23.964] [info]  - number of projections: 2
+[2026-09-22 14:33:23.964] [info]  - number of iterations: 254
+[2026-09-22 14:33:24.000] [info] -------
+[2026-09-22 14:33:24.001] [info] Manager
+[2026-09-22 14:33:24.001] [info] -------
+[2026-09-22 14:33:24.001] [info] Starting integration at initial time 1.96 s...
+[2026-09-22 14:33:24.639] [info] Integration complete at final time 2.00 s.
+[2026-09-22 14:33:24.639] [info]  - CPU time elapsed: 0.640625 s
+[2026-09-22 14:33:24.639] [info]  - real time elapsed: 0.638289 s
+[2026-09-22 14:33:24.640] [info]  - ratio sim-to-real time: 3.133
+[2026-09-22 14:33:24.640] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 14:33:24.640] [info]  - number of realizations: 952
+[2026-09-22 14:33:24.640] [info]  - number of steps taken / attempted: 115 / 209
+[2026-09-22 14:33:24.640] [info]  - number of projections: 2
+[2026-09-22 14:33:24.640] [info]  - number of iterations: 209
+[2026-09-22 15:23:51.414] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim_added_floor.osim
+[2026-09-22 15:23:51.419] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-22 15:23:51.431] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-22 15:23:51.431] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-22 15:23:51.432] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-22 15:23:51.432] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-22 15:23:51.440] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-22 15:23:51.440] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-22 15:23:53.916] [info] -------
+[2026-09-22 15:23:53.916] [info] Manager
+[2026-09-22 15:23:53.916] [info] -------
+[2026-09-22 15:23:53.916] [info] Starting integration at initial time 0.00 s...
+[2026-09-22 15:23:56.485] [info] Integration complete at final time 0.04 s.
+[2026-09-22 15:23:56.485] [info]  - CPU time elapsed: 2.546875 s
+[2026-09-22 15:23:56.485] [info]  - real time elapsed: 2.568065 s
+[2026-09-22 15:23:56.485] [info]  - ratio sim-to-real time: 0.016
+[2026-09-22 15:23:56.485] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:23:56.485] [info]  - number of realizations: 4732
+[2026-09-22 15:23:56.485] [info]  - number of steps taken / attempted: 779 / 988
+[2026-09-22 15:23:56.485] [info]  - number of projections: 0
+[2026-09-22 15:23:56.485] [info]  - number of iterations: 988
+[2026-09-22 15:23:56.512] [info] -------
+[2026-09-22 15:23:56.512] [info] Manager
+[2026-09-22 15:23:56.512] [info] -------
+[2026-09-22 15:23:56.512] [info] Starting integration at initial time 0.04 s...
+[2026-09-22 15:23:57.108] [info] Integration complete at final time 0.08 s.
+[2026-09-22 15:23:57.109] [info]  - CPU time elapsed: 0.593750 s
+[2026-09-22 15:23:57.109] [info]  - real time elapsed: 0.596129 s
+[2026-09-22 15:23:57.109] [info]  - ratio sim-to-real time: 0.134
+[2026-09-22 15:23:57.109] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:23:57.109] [info]  - number of realizations: 1176
+[2026-09-22 15:23:57.109] [info]  - number of steps taken / attempted: 199 / 244
+[2026-09-22 15:23:57.110] [info]  - number of projections: 2
+[2026-09-22 15:23:57.110] [info]  - number of iterations: 244
+[2026-09-22 15:23:57.137] [info] -------
+[2026-09-22 15:23:57.137] [info] Manager
+[2026-09-22 15:23:57.137] [info] -------
+[2026-09-22 15:23:57.137] [info] Starting integration at initial time 0.08 s...
+[2026-09-22 15:23:57.429] [info] Integration complete at final time 0.12 s.
+[2026-09-22 15:23:57.429] [info]  - CPU time elapsed: 0.281250 s
+[2026-09-22 15:23:57.429] [info]  - real time elapsed: 0.291610 s
+[2026-09-22 15:23:57.429] [info]  - ratio sim-to-real time: 0.412
+[2026-09-22 15:23:57.429] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:23:57.429] [info]  - number of realizations: 610
+[2026-09-22 15:23:57.429] [info]  - number of steps taken / attempted: 85 / 131
+[2026-09-22 15:23:57.429] [info]  - number of projections: 2
+[2026-09-22 15:23:57.429] [info]  - number of iterations: 131
+[2026-09-22 15:23:57.455] [info] -------
+[2026-09-22 15:23:57.456] [info] Manager
+[2026-09-22 15:23:57.456] [info] -------
+[2026-09-22 15:23:57.456] [info] Starting integration at initial time 0.12 s...
+[2026-09-22 15:23:58.798] [info] Integration complete at final time 0.16 s.
+[2026-09-22 15:23:58.799] [info]  - CPU time elapsed: 1.312500 s
+[2026-09-22 15:23:58.799] [info]  - real time elapsed: 1.342515 s
+[2026-09-22 15:23:58.799] [info]  - ratio sim-to-real time: 0.119
+[2026-09-22 15:23:58.799] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:23:58.799] [info]  - number of realizations: 2543
+[2026-09-22 15:23:58.799] [info]  - number of steps taken / attempted: 422 / 530
+[2026-09-22 15:23:58.799] [info]  - number of projections: 2
+[2026-09-22 15:23:58.799] [info]  - number of iterations: 530
+[2026-09-22 15:23:58.827] [info] -------
+[2026-09-22 15:23:58.827] [info] Manager
+[2026-09-22 15:23:58.827] [info] -------
+[2026-09-22 15:23:58.827] [info] Starting integration at initial time 0.16 s...
+[2026-09-22 15:23:59.639] [info] Integration complete at final time 0.20 s.
+[2026-09-22 15:23:59.639] [info]  - CPU time elapsed: 0.812500 s
+[2026-09-22 15:23:59.640] [info]  - real time elapsed: 0.812026 s
+[2026-09-22 15:23:59.640] [info]  - ratio sim-to-real time: 0.246
+[2026-09-22 15:23:59.640] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:23:59.640] [info]  - number of realizations: 1555
+[2026-09-22 15:23:59.640] [info]  - number of steps taken / attempted: 214 / 335
+[2026-09-22 15:23:59.640] [info]  - number of projections: 2
+[2026-09-22 15:23:59.640] [info]  - number of iterations: 335
+[2026-09-22 15:23:59.709] [info] -------
+[2026-09-22 15:23:59.710] [info] Manager
+[2026-09-22 15:23:59.710] [info] -------
+[2026-09-22 15:23:59.710] [info] Starting integration at initial time 0.20 s...
+[2026-09-22 15:24:00.070] [info] Integration complete at final time 0.24 s.
+[2026-09-22 15:24:00.071] [info]  - CPU time elapsed: 0.359375 s
+[2026-09-22 15:24:00.071] [info]  - real time elapsed: 0.360569 s
+[2026-09-22 15:24:00.071] [info]  - ratio sim-to-real time: 0.666
+[2026-09-22 15:24:00.071] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:24:00.071] [info]  - number of realizations: 694
+[2026-09-22 15:24:00.071] [info]  - number of steps taken / attempted: 105 / 147
+[2026-09-22 15:24:00.071] [info]  - number of projections: 2
+[2026-09-22 15:24:00.071] [info]  - number of iterations: 147
+[2026-09-22 15:24:00.096] [info] -------
+[2026-09-22 15:24:00.096] [info] Manager
+[2026-09-22 15:24:00.096] [info] -------
+[2026-09-22 15:24:00.097] [info] Starting integration at initial time 0.24 s...
+[2026-09-22 15:24:00.838] [info] Integration complete at final time 0.28 s.
+[2026-09-22 15:24:00.838] [info]  - CPU time elapsed: 0.718750 s
+[2026-09-22 15:24:00.838] [info]  - real time elapsed: 0.741309 s
+[2026-09-22 15:24:00.838] [info]  - ratio sim-to-real time: 0.378
+[2026-09-22 15:24:00.838] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:24:00.838] [info]  - number of realizations: 1459
+[2026-09-22 15:24:00.838] [info]  - number of steps taken / attempted: 194 / 316
+[2026-09-22 15:24:00.838] [info]  - number of projections: 2
+[2026-09-22 15:24:00.838] [info]  - number of iterations: 316
+[2026-09-22 15:24:00.868] [info] -------
+[2026-09-22 15:24:00.869] [info] Manager
+[2026-09-22 15:24:00.869] [info] -------
+[2026-09-22 15:24:00.869] [info] Starting integration at initial time 0.28 s...
+[2026-09-22 15:24:01.573] [info] Integration complete at final time 0.32 s.
+[2026-09-22 15:24:01.574] [info]  - CPU time elapsed: 0.671875 s
+[2026-09-22 15:24:01.574] [info]  - real time elapsed: 0.704524 s
+[2026-09-22 15:24:01.574] [info]  - ratio sim-to-real time: 0.454
+[2026-09-22 15:24:01.574] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:24:01.574] [info]  - number of realizations: 1414
+[2026-09-22 15:24:01.574] [info]  - number of steps taken / attempted: 205 / 302
+[2026-09-22 15:24:01.574] [info]  - number of projections: 2
+[2026-09-22 15:24:01.574] [info]  - number of iterations: 302
+[2026-09-22 15:24:01.609] [info] -------
+[2026-09-22 15:24:01.609] [info] Manager
+[2026-09-22 15:24:01.609] [info] -------
+[2026-09-22 15:24:01.609] [info] Starting integration at initial time 0.32 s...
+[2026-09-22 15:24:02.556] [info] Integration complete at final time 0.36 s.
+[2026-09-22 15:24:02.556] [info]  - CPU time elapsed: 0.921875 s
+[2026-09-22 15:24:02.557] [info]  - real time elapsed: 0.946779 s
+[2026-09-22 15:24:02.557] [info]  - ratio sim-to-real time: 0.380
+[2026-09-22 15:24:02.557] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:24:02.557] [info]  - number of realizations: 1829
+[2026-09-22 15:24:02.557] [info]  - number of steps taken / attempted: 280 / 387
+[2026-09-22 15:24:02.557] [info]  - number of projections: 2
+[2026-09-22 15:24:02.557] [info]  - number of iterations: 387
+[2026-09-22 15:24:02.583] [info] -------
+[2026-09-22 15:24:02.583] [info] Manager
+[2026-09-22 15:24:02.583] [info] -------
+[2026-09-22 15:24:02.583] [info] Starting integration at initial time 0.36 s...
+[2026-09-22 15:24:03.271] [info] Integration complete at final time 0.40 s.
+[2026-09-22 15:24:03.271] [info]  - CPU time elapsed: 0.687500 s
+[2026-09-22 15:24:03.271] [info]  - real time elapsed: 0.687204 s
+[2026-09-22 15:24:03.271] [info]  - ratio sim-to-real time: 0.582
+[2026-09-22 15:24:03.271] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:24:03.272] [info]  - number of realizations: 1262
+[2026-09-22 15:24:03.272] [info]  - number of steps taken / attempted: 193 / 267
+[2026-09-22 15:24:03.272] [info]  - number of projections: 2
+[2026-09-22 15:24:03.272] [info]  - number of iterations: 267
+[2026-09-22 15:24:03.303] [info] -------
+[2026-09-22 15:24:03.303] [info] Manager
+[2026-09-22 15:24:03.304] [info] -------
+[2026-09-22 15:24:03.304] [info] Starting integration at initial time 0.40 s...
+[2026-09-22 15:24:04.151] [info] Integration complete at final time 0.44 s.
+[2026-09-22 15:24:04.151] [info]  - CPU time elapsed: 0.828125 s
+[2026-09-22 15:24:04.151] [info]  - real time elapsed: 0.846864 s
+[2026-09-22 15:24:04.151] [info]  - ratio sim-to-real time: 0.520
+[2026-09-22 15:24:04.151] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:24:04.151] [info]  - number of realizations: 1571
+[2026-09-22 15:24:04.151] [info]  - number of steps taken / attempted: 234 / 334
+[2026-09-22 15:24:04.151] [info]  - number of projections: 2
+[2026-09-22 15:24:04.151] [info]  - number of iterations: 334
+[2026-09-22 15:24:04.178] [info] -------
+[2026-09-22 15:24:04.178] [info] Manager
+[2026-09-22 15:24:04.178] [info] -------
+[2026-09-22 15:24:04.178] [info] Starting integration at initial time 0.44 s...
+[2026-09-22 15:24:04.907] [info] Integration complete at final time 0.48 s.
+[2026-09-22 15:24:04.907] [info]  - CPU time elapsed: 0.703125 s
+[2026-09-22 15:24:04.907] [info]  - real time elapsed: 0.728751 s
+[2026-09-22 15:24:04.907] [info]  - ratio sim-to-real time: 0.659
+[2026-09-22 15:24:04.907] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:24:04.907] [info]  - number of realizations: 1315
+[2026-09-22 15:24:04.907] [info]  - number of steps taken / attempted: 226 / 272
+[2026-09-22 15:24:04.907] [info]  - number of projections: 2
+[2026-09-22 15:24:04.907] [info]  - number of iterations: 272
+[2026-09-22 15:24:04.940] [info] -------
+[2026-09-22 15:24:04.941] [info] Manager
+[2026-09-22 15:24:04.942] [info] -------
+[2026-09-22 15:24:04.942] [info] Starting integration at initial time 0.48 s...
+[2026-09-22 15:24:06.630] [info] Integration complete at final time 0.52 s.
+[2026-09-22 15:24:06.630] [info]  - CPU time elapsed: 1.656250 s
+[2026-09-22 15:24:06.630] [info]  - real time elapsed: 1.687680 s
+[2026-09-22 15:24:06.630] [info]  - ratio sim-to-real time: 0.308
+[2026-09-22 15:24:06.630] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:24:06.630] [info]  - number of realizations: 3094
+[2026-09-22 15:24:06.630] [info]  - number of steps taken / attempted: 513 / 645
+[2026-09-22 15:24:06.630] [info]  - number of projections: 2
+[2026-09-22 15:24:06.630] [info]  - number of iterations: 645
+[2026-09-22 15:24:06.660] [info] -------
+[2026-09-22 15:24:06.661] [info] Manager
+[2026-09-22 15:24:06.661] [info] -------
+[2026-09-22 15:24:06.661] [info] Starting integration at initial time 0.52 s...
+[2026-09-22 15:24:08.260] [info] Integration complete at final time 0.56 s.
+[2026-09-22 15:24:08.260] [info]  - CPU time elapsed: 1.546875 s
+[2026-09-22 15:24:08.260] [info]  - real time elapsed: 1.599151 s
+[2026-09-22 15:24:08.260] [info]  - ratio sim-to-real time: 0.350
+[2026-09-22 15:24:08.260] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:24:08.260] [info]  - number of realizations: 3140
+[2026-09-22 15:24:08.260] [info]  - number of steps taken / attempted: 571 / 642
+[2026-09-22 15:24:08.260] [info]  - number of projections: 2
+[2026-09-22 15:24:08.260] [info]  - number of iterations: 642
+[2026-09-22 15:24:08.291] [info] -------
+[2026-09-22 15:24:08.291] [info] Manager
+[2026-09-22 15:24:08.292] [info] -------
+[2026-09-22 15:24:08.292] [info] Starting integration at initial time 0.56 s...
+[2026-09-22 15:24:10.110] [info] Integration complete at final time 0.60 s.
+[2026-09-22 15:24:10.111] [info]  - CPU time elapsed: 1.796875 s
+[2026-09-22 15:24:10.111] [info]  - real time elapsed: 1.818088 s
+[2026-09-22 15:24:10.111] [info]  - ratio sim-to-real time: 0.330
+[2026-09-22 15:24:10.111] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:24:10.111] [info]  - number of realizations: 3547
+[2026-09-22 15:24:10.111] [info]  - number of steps taken / attempted: 582 / 741
+[2026-09-22 15:24:10.111] [info]  - number of projections: 2
+[2026-09-22 15:24:10.111] [info]  - number of iterations: 741
+[2026-09-22 15:24:10.189] [info] -------
+[2026-09-22 15:24:10.189] [info] Manager
+[2026-09-22 15:24:10.190] [info] -------
+[2026-09-22 15:24:10.190] [info] Starting integration at initial time 0.60 s...
+[2026-09-22 15:24:11.932] [info] Integration complete at final time 0.64 s.
+[2026-09-22 15:24:11.932] [info]  - CPU time elapsed: 1.703125 s
+[2026-09-22 15:24:11.932] [info]  - real time elapsed: 1.742064 s
+[2026-09-22 15:24:11.932] [info]  - ratio sim-to-real time: 0.367
+[2026-09-22 15:24:11.932] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:24:11.933] [info]  - number of realizations: 3390
+[2026-09-22 15:24:11.933] [info]  - number of steps taken / attempted: 525 / 716
+[2026-09-22 15:24:11.933] [info]  - number of projections: 2
+[2026-09-22 15:24:11.933] [info]  - number of iterations: 716
+[2026-09-22 15:24:11.964] [info] -------
+[2026-09-22 15:24:11.964] [info] Manager
+[2026-09-22 15:24:11.964] [info] -------
+[2026-09-22 15:24:11.964] [info] Starting integration at initial time 0.64 s...
+[2026-09-22 15:24:15.854] [info] Integration complete at final time 0.68 s.
+[2026-09-22 15:24:15.854] [info]  - CPU time elapsed: 3.796875 s
+[2026-09-22 15:24:15.854] [info]  - real time elapsed: 3.889678 s
+[2026-09-22 15:24:15.854] [info]  - ratio sim-to-real time: 0.175
+[2026-09-22 15:24:15.854] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:24:15.854] [info]  - number of realizations: 7862
+[2026-09-22 15:24:15.855] [info]  - number of steps taken / attempted: 1141 / 1680
+[2026-09-22 15:24:15.855] [info]  - number of projections: 2
+[2026-09-22 15:24:15.855] [info]  - number of iterations: 1680
+[2026-09-22 15:24:15.889] [info] -------
+[2026-09-22 15:24:15.889] [info] Manager
+[2026-09-22 15:24:15.889] [info] -------
+[2026-09-22 15:24:15.889] [info] Starting integration at initial time 0.68 s...
+[2026-09-22 15:24:19.171] [info] Integration complete at final time 0.72 s.
+[2026-09-22 15:24:19.171] [info]  - CPU time elapsed: 3.218750 s
+[2026-09-22 15:24:19.171] [info]  - real time elapsed: 3.281932 s
+[2026-09-22 15:24:19.171] [info]  - ratio sim-to-real time: 0.219
+[2026-09-22 15:24:19.171] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:24:19.171] [info]  - number of realizations: 6276
+[2026-09-22 15:24:19.171] [info]  - number of steps taken / attempted: 863 / 1353
+[2026-09-22 15:24:19.171] [info]  - number of projections: 2
+[2026-09-22 15:24:19.171] [info]  - number of iterations: 1353
+[2026-09-22 15:24:19.202] [info] -------
+[2026-09-22 15:24:19.202] [info] Manager
+[2026-09-22 15:24:19.202] [info] -------
+[2026-09-22 15:24:19.202] [info] Starting integration at initial time 0.72 s...
+[2026-09-22 15:25:23.377] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim_added_floor.osim
+[2026-09-22 15:25:23.383] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-22 15:25:23.391] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-22 15:25:23.391] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-22 15:25:23.392] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-22 15:25:23.392] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-22 15:25:23.396] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-22 15:25:23.397] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-22 15:25:24.835] [info] -------
+[2026-09-22 15:25:24.835] [info] Manager
+[2026-09-22 15:25:24.835] [info] -------
+[2026-09-22 15:25:24.835] [info] Starting integration at initial time 0.00 s...
+[2026-09-22 15:25:27.294] [info] Integration complete at final time 0.04 s.
+[2026-09-22 15:25:27.294] [info]  - CPU time elapsed: 2.437500 s
+[2026-09-22 15:25:27.294] [info]  - real time elapsed: 2.458877 s
+[2026-09-22 15:25:27.295] [info]  - ratio sim-to-real time: 0.016
+[2026-09-22 15:25:27.295] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:27.295] [info]  - number of realizations: 4732
+[2026-09-22 15:25:27.295] [info]  - number of steps taken / attempted: 779 / 988
+[2026-09-22 15:25:27.295] [info]  - number of projections: 0
+[2026-09-22 15:25:27.295] [info]  - number of iterations: 988
+[2026-09-22 15:25:27.323] [info] -------
+[2026-09-22 15:25:27.323] [info] Manager
+[2026-09-22 15:25:27.323] [info] -------
+[2026-09-22 15:25:27.323] [info] Starting integration at initial time 0.04 s...
+[2026-09-22 15:25:27.914] [info] Integration complete at final time 0.08 s.
+[2026-09-22 15:25:27.915] [info]  - CPU time elapsed: 0.593750 s
+[2026-09-22 15:25:27.915] [info]  - real time elapsed: 0.590933 s
+[2026-09-22 15:25:27.915] [info]  - ratio sim-to-real time: 0.135
+[2026-09-22 15:25:27.915] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:27.915] [info]  - number of realizations: 1176
+[2026-09-22 15:25:27.915] [info]  - number of steps taken / attempted: 199 / 244
+[2026-09-22 15:25:27.915] [info]  - number of projections: 2
+[2026-09-22 15:25:27.915] [info]  - number of iterations: 244
+[2026-09-22 15:25:27.946] [info] -------
+[2026-09-22 15:25:27.946] [info] Manager
+[2026-09-22 15:25:27.946] [info] -------
+[2026-09-22 15:25:27.946] [info] Starting integration at initial time 0.08 s...
+[2026-09-22 15:25:28.237] [info] Integration complete at final time 0.12 s.
+[2026-09-22 15:25:28.237] [info]  - CPU time elapsed: 0.296875 s
+[2026-09-22 15:25:28.237] [info]  - real time elapsed: 0.290616 s
+[2026-09-22 15:25:28.237] [info]  - ratio sim-to-real time: 0.413
+[2026-09-22 15:25:28.238] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:28.238] [info]  - number of realizations: 610
+[2026-09-22 15:25:28.238] [info]  - number of steps taken / attempted: 85 / 131
+[2026-09-22 15:25:28.238] [info]  - number of projections: 2
+[2026-09-22 15:25:28.238] [info]  - number of iterations: 131
+[2026-09-22 15:25:28.268] [info] -------
+[2026-09-22 15:25:28.268] [info] Manager
+[2026-09-22 15:25:28.268] [info] -------
+[2026-09-22 15:25:28.268] [info] Starting integration at initial time 0.12 s...
+[2026-09-22 15:25:29.539] [info] Integration complete at final time 0.16 s.
+[2026-09-22 15:25:29.539] [info]  - CPU time elapsed: 1.265625 s
+[2026-09-22 15:25:29.539] [info]  - real time elapsed: 1.270911 s
+[2026-09-22 15:25:29.540] [info]  - ratio sim-to-real time: 0.126
+[2026-09-22 15:25:29.540] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:29.540] [info]  - number of realizations: 2543
+[2026-09-22 15:25:29.540] [info]  - number of steps taken / attempted: 422 / 530
+[2026-09-22 15:25:29.540] [info]  - number of projections: 2
+[2026-09-22 15:25:29.540] [info]  - number of iterations: 530
+[2026-09-22 15:25:29.567] [info] -------
+[2026-09-22 15:25:29.567] [info] Manager
+[2026-09-22 15:25:29.567] [info] -------
+[2026-09-22 15:25:29.567] [info] Starting integration at initial time 0.16 s...
+[2026-09-22 15:25:30.408] [info] Integration complete at final time 0.20 s.
+[2026-09-22 15:25:30.408] [info]  - CPU time elapsed: 0.796875 s
+[2026-09-22 15:25:30.408] [info]  - real time elapsed: 0.840496 s
+[2026-09-22 15:25:30.408] [info]  - ratio sim-to-real time: 0.238
+[2026-09-22 15:25:30.408] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:30.408] [info]  - number of realizations: 1555
+[2026-09-22 15:25:30.408] [info]  - number of steps taken / attempted: 214 / 335
+[2026-09-22 15:25:30.408] [info]  - number of projections: 2
+[2026-09-22 15:25:30.408] [info]  - number of iterations: 335
+[2026-09-22 15:25:30.474] [info] -------
+[2026-09-22 15:25:30.475] [info] Manager
+[2026-09-22 15:25:30.475] [info] -------
+[2026-09-22 15:25:30.475] [info] Starting integration at initial time 0.20 s...
+[2026-09-22 15:25:30.826] [info] Integration complete at final time 0.24 s.
+[2026-09-22 15:25:30.826] [info]  - CPU time elapsed: 0.328125 s
+[2026-09-22 15:25:30.826] [info]  - real time elapsed: 0.351067 s
+[2026-09-22 15:25:30.826] [info]  - ratio sim-to-real time: 0.684
+[2026-09-22 15:25:30.826] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:30.826] [info]  - number of realizations: 694
+[2026-09-22 15:25:30.826] [info]  - number of steps taken / attempted: 105 / 147
+[2026-09-22 15:25:30.826] [info]  - number of projections: 2
+[2026-09-22 15:25:30.826] [info]  - number of iterations: 147
+[2026-09-22 15:25:30.858] [info] -------
+[2026-09-22 15:25:30.858] [info] Manager
+[2026-09-22 15:25:30.858] [info] -------
+[2026-09-22 15:25:30.858] [info] Starting integration at initial time 0.24 s...
+[2026-09-22 15:25:31.609] [info] Integration complete at final time 0.28 s.
+[2026-09-22 15:25:31.610] [info]  - CPU time elapsed: 0.750000 s
+[2026-09-22 15:25:31.610] [info]  - real time elapsed: 0.750921 s
+[2026-09-22 15:25:31.610] [info]  - ratio sim-to-real time: 0.373
+[2026-09-22 15:25:31.610] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:31.610] [info]  - number of realizations: 1459
+[2026-09-22 15:25:31.610] [info]  - number of steps taken / attempted: 194 / 316
+[2026-09-22 15:25:31.610] [info]  - number of projections: 2
+[2026-09-22 15:25:31.610] [info]  - number of iterations: 316
+[2026-09-22 15:25:31.643] [info] -------
+[2026-09-22 15:25:31.643] [info] Manager
+[2026-09-22 15:25:31.643] [info] -------
+[2026-09-22 15:25:31.643] [info] Starting integration at initial time 0.28 s...
+[2026-09-22 15:25:32.402] [info] Integration complete at final time 0.32 s.
+[2026-09-22 15:25:32.402] [info]  - CPU time elapsed: 0.734375 s
+[2026-09-22 15:25:32.402] [info]  - real time elapsed: 0.758104 s
+[2026-09-22 15:25:32.402] [info]  - ratio sim-to-real time: 0.422
+[2026-09-22 15:25:32.402] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:32.402] [info]  - number of realizations: 1414
+[2026-09-22 15:25:32.402] [info]  - number of steps taken / attempted: 205 / 302
+[2026-09-22 15:25:32.402] [info]  - number of projections: 2
+[2026-09-22 15:25:32.402] [info]  - number of iterations: 302
+[2026-09-22 15:25:32.438] [info] -------
+[2026-09-22 15:25:32.438] [info] Manager
+[2026-09-22 15:25:32.438] [info] -------
+[2026-09-22 15:25:32.438] [info] Starting integration at initial time 0.32 s...
+[2026-09-22 15:25:33.377] [info] Integration complete at final time 0.36 s.
+[2026-09-22 15:25:33.377] [info]  - CPU time elapsed: 0.906250 s
+[2026-09-22 15:25:33.377] [info]  - real time elapsed: 0.938408 s
+[2026-09-22 15:25:33.377] [info]  - ratio sim-to-real time: 0.384
+[2026-09-22 15:25:33.377] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:33.377] [info]  - number of realizations: 1829
+[2026-09-22 15:25:33.377] [info]  - number of steps taken / attempted: 280 / 387
+[2026-09-22 15:25:33.377] [info]  - number of projections: 2
+[2026-09-22 15:25:33.377] [info]  - number of iterations: 387
+[2026-09-22 15:25:33.402] [info] -------
+[2026-09-22 15:25:33.402] [info] Manager
+[2026-09-22 15:25:33.402] [info] -------
+[2026-09-22 15:25:33.402] [info] Starting integration at initial time 0.36 s...
+[2026-09-22 15:25:34.066] [info] Integration complete at final time 0.40 s.
+[2026-09-22 15:25:34.066] [info]  - CPU time elapsed: 0.656250 s
+[2026-09-22 15:25:34.066] [info]  - real time elapsed: 0.663132 s
+[2026-09-22 15:25:34.066] [info]  - ratio sim-to-real time: 0.603
+[2026-09-22 15:25:34.066] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:34.066] [info]  - number of realizations: 1262
+[2026-09-22 15:25:34.066] [info]  - number of steps taken / attempted: 193 / 267
+[2026-09-22 15:25:34.066] [info]  - number of projections: 2
+[2026-09-22 15:25:34.066] [info]  - number of iterations: 267
+[2026-09-22 15:25:34.091] [info] -------
+[2026-09-22 15:25:34.091] [info] Manager
+[2026-09-22 15:25:34.091] [info] -------
+[2026-09-22 15:25:34.091] [info] Starting integration at initial time 0.40 s...
+[2026-09-22 15:25:34.874] [info] Integration complete at final time 0.44 s.
+[2026-09-22 15:25:34.875] [info]  - CPU time elapsed: 0.781250 s
+[2026-09-22 15:25:34.875] [info]  - real time elapsed: 0.782924 s
+[2026-09-22 15:25:34.875] [info]  - ratio sim-to-real time: 0.562
+[2026-09-22 15:25:34.875] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:34.875] [info]  - number of realizations: 1571
+[2026-09-22 15:25:34.875] [info]  - number of steps taken / attempted: 234 / 334
+[2026-09-22 15:25:34.875] [info]  - number of projections: 2
+[2026-09-22 15:25:34.875] [info]  - number of iterations: 334
+[2026-09-22 15:25:34.906] [info] -------
+[2026-09-22 15:25:34.906] [info] Manager
+[2026-09-22 15:25:34.906] [info] -------
+[2026-09-22 15:25:34.906] [info] Starting integration at initial time 0.44 s...
+[2026-09-22 15:25:35.600] [info] Integration complete at final time 0.48 s.
+[2026-09-22 15:25:35.600] [info]  - CPU time elapsed: 0.687500 s
+[2026-09-22 15:25:35.600] [info]  - real time elapsed: 0.693416 s
+[2026-09-22 15:25:35.600] [info]  - ratio sim-to-real time: 0.692
+[2026-09-22 15:25:35.600] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:35.600] [info]  - number of realizations: 1315
+[2026-09-22 15:25:35.600] [info]  - number of steps taken / attempted: 226 / 272
+[2026-09-22 15:25:35.600] [info]  - number of projections: 2
+[2026-09-22 15:25:35.600] [info]  - number of iterations: 272
+[2026-09-22 15:25:35.627] [info] -------
+[2026-09-22 15:25:35.627] [info] Manager
+[2026-09-22 15:25:35.627] [info] -------
+[2026-09-22 15:25:35.627] [info] Starting integration at initial time 0.48 s...
+[2026-09-22 15:25:37.341] [info] Integration complete at final time 0.52 s.
+[2026-09-22 15:25:37.341] [info]  - CPU time elapsed: 1.718750 s
+[2026-09-22 15:25:37.341] [info]  - real time elapsed: 1.713235 s
+[2026-09-22 15:25:37.341] [info]  - ratio sim-to-real time: 0.304
+[2026-09-22 15:25:37.342] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:37.342] [info]  - number of realizations: 3094
+[2026-09-22 15:25:37.342] [info]  - number of steps taken / attempted: 513 / 645
+[2026-09-22 15:25:37.342] [info]  - number of projections: 2
+[2026-09-22 15:25:37.342] [info]  - number of iterations: 645
+[2026-09-22 15:25:37.379] [info] -------
+[2026-09-22 15:25:37.379] [info] Manager
+[2026-09-22 15:25:37.379] [info] -------
+[2026-09-22 15:25:37.379] [info] Starting integration at initial time 0.52 s...
+[2026-09-22 15:25:39.596] [info] Integration complete at final time 0.56 s.
+[2026-09-22 15:25:39.597] [info]  - CPU time elapsed: 2.031250 s
+[2026-09-22 15:25:39.597] [info]  - real time elapsed: 2.217157 s
+[2026-09-22 15:25:39.597] [info]  - ratio sim-to-real time: 0.253
+[2026-09-22 15:25:39.597] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:39.597] [info]  - number of realizations: 3140
+[2026-09-22 15:25:39.597] [info]  - number of steps taken / attempted: 571 / 642
+[2026-09-22 15:25:39.597] [info]  - number of projections: 2
+[2026-09-22 15:25:39.597] [info]  - number of iterations: 642
+[2026-09-22 15:25:39.630] [info] -------
+[2026-09-22 15:25:39.631] [info] Manager
+[2026-09-22 15:25:39.631] [info] -------
+[2026-09-22 15:25:39.631] [info] Starting integration at initial time 0.56 s...
+[2026-09-22 15:25:42.146] [info] Integration complete at final time 0.60 s.
+[2026-09-22 15:25:42.146] [info]  - CPU time elapsed: 1.937500 s
+[2026-09-22 15:25:42.146] [info]  - real time elapsed: 2.514471 s
+[2026-09-22 15:25:42.146] [info]  - ratio sim-to-real time: 0.239
+[2026-09-22 15:25:42.146] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:42.146] [info]  - number of realizations: 3547
+[2026-09-22 15:25:42.146] [info]  - number of steps taken / attempted: 582 / 741
+[2026-09-22 15:25:42.146] [info]  - number of projections: 2
+[2026-09-22 15:25:42.146] [info]  - number of iterations: 741
+[2026-09-22 15:25:42.202] [info] -------
+[2026-09-22 15:25:42.202] [info] Manager
+[2026-09-22 15:25:42.202] [info] -------
+[2026-09-22 15:25:42.202] [info] Starting integration at initial time 0.60 s...
+[2026-09-22 15:25:44.224] [info] Integration complete at final time 0.64 s.
+[2026-09-22 15:25:44.224] [info]  - CPU time elapsed: 1.953125 s
+[2026-09-22 15:25:44.224] [info]  - real time elapsed: 2.021592 s
+[2026-09-22 15:25:44.224] [info]  - ratio sim-to-real time: 0.317
+[2026-09-22 15:25:44.224] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:44.224] [info]  - number of realizations: 3390
+[2026-09-22 15:25:44.224] [info]  - number of steps taken / attempted: 525 / 716
+[2026-09-22 15:25:44.224] [info]  - number of projections: 2
+[2026-09-22 15:25:44.224] [info]  - number of iterations: 716
+[2026-09-22 15:25:44.253] [info] -------
+[2026-09-22 15:25:44.253] [info] Manager
+[2026-09-22 15:25:44.253] [info] -------
+[2026-09-22 15:25:44.253] [info] Starting integration at initial time 0.64 s...
+[2026-09-22 15:25:53.896] [info] Integration complete at final time 0.68 s.
+[2026-09-22 15:25:53.897] [info]  - CPU time elapsed: 4.203125 s
+[2026-09-22 15:25:53.897] [info]  - real time elapsed: 9.643322 s
+[2026-09-22 15:25:53.897] [info]  - ratio sim-to-real time: 0.071
+[2026-09-22 15:25:53.897] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:53.897] [info]  - number of realizations: 7862
+[2026-09-22 15:25:53.897] [info]  - number of steps taken / attempted: 1141 / 1680
+[2026-09-22 15:25:53.897] [info]  - number of projections: 2
+[2026-09-22 15:25:53.897] [info]  - number of iterations: 1680
+[2026-09-22 15:25:53.931] [info] -------
+[2026-09-22 15:25:53.931] [info] Manager
+[2026-09-22 15:25:53.931] [info] -------
+[2026-09-22 15:25:53.932] [info] Starting integration at initial time 0.68 s...
+[2026-09-22 15:25:57.202] [info] Integration complete at final time 0.72 s.
+[2026-09-22 15:25:57.202] [info]  - CPU time elapsed: 3.234375 s
+[2026-09-22 15:25:57.202] [info]  - real time elapsed: 3.270055 s
+[2026-09-22 15:25:57.202] [info]  - ratio sim-to-real time: 0.220
+[2026-09-22 15:25:57.202] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:25:57.202] [info]  - number of realizations: 6276
+[2026-09-22 15:25:57.202] [info]  - number of steps taken / attempted: 863 / 1353
+[2026-09-22 15:25:57.202] [info]  - number of projections: 2
+[2026-09-22 15:25:57.202] [info]  - number of iterations: 1353
+[2026-09-22 15:25:57.230] [info] -------
+[2026-09-22 15:25:57.230] [info] Manager
+[2026-09-22 15:25:57.230] [info] -------
+[2026-09-22 15:25:57.230] [info] Starting integration at initial time 0.72 s...
+[2026-09-22 15:26:57.343] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim_added_floor.osim
+[2026-09-22 15:26:57.347] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-22 15:26:57.364] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-22 15:26:57.367] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-22 15:26:57.369] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-22 15:26:57.369] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-22 15:26:57.383] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-22 15:26:57.384] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-22 15:26:59.716] [info] -------
+[2026-09-22 15:26:59.716] [info] Manager
+[2026-09-22 15:26:59.716] [info] -------
+[2026-09-22 15:26:59.716] [info] Starting integration at initial time 0.00 s...
+[2026-09-22 15:27:01.559] [info] Integration complete at final time 0.04 s.
+[2026-09-22 15:27:01.560] [info]  - CPU time elapsed: 1.687500 s
+[2026-09-22 15:27:01.560] [info]  - real time elapsed: 1.842964 s
+[2026-09-22 15:27:01.560] [info]  - ratio sim-to-real time: 0.022
+[2026-09-22 15:27:01.560] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:27:01.560] [info]  - number of realizations: 1500
+[2026-09-22 15:27:01.560] [info]  - number of steps taken / attempted: 247 / 313
+[2026-09-22 15:27:01.560] [info]  - number of projections: 0
+[2026-09-22 15:27:01.560] [info]  - number of iterations: 313
+[2026-09-22 15:27:01.614] [info] -------
+[2026-09-22 15:27:01.614] [info] Manager
+[2026-09-22 15:27:01.614] [info] -------
+[2026-09-22 15:27:01.614] [info] Starting integration at initial time 0.04 s...
+[2026-09-22 15:27:02.399] [info] Integration complete at final time 0.08 s.
+[2026-09-22 15:27:02.400] [info]  - CPU time elapsed: 0.703125 s
+[2026-09-22 15:27:02.401] [info]  - real time elapsed: 0.784748 s
+[2026-09-22 15:27:02.401] [info]  - ratio sim-to-real time: 0.102
+[2026-09-22 15:27:02.401] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:27:02.401] [info]  - number of realizations: 518
+[2026-09-22 15:27:02.402] [info]  - number of steps taken / attempted: 89 / 107
+[2026-09-22 15:27:02.403] [info]  - number of projections: 2
+[2026-09-22 15:27:02.403] [info]  - number of iterations: 107
+[2026-09-22 15:27:02.478] [info] -------
+[2026-09-22 15:27:02.479] [info] Manager
+[2026-09-22 15:27:02.479] [info] -------
+[2026-09-22 15:27:02.479] [info] Starting integration at initial time 0.08 s...
+[2026-09-22 15:27:04.575] [info] Integration complete at final time 0.12 s.
+[2026-09-22 15:27:04.575] [info]  - CPU time elapsed: 1.984375 s
+[2026-09-22 15:27:04.575] [info]  - real time elapsed: 2.095661 s
+[2026-09-22 15:27:04.576] [info]  - ratio sim-to-real time: 0.057
+[2026-09-22 15:27:04.576] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:27:04.576] [info]  - number of realizations: 1305
+[2026-09-22 15:27:04.576] [info]  - number of steps taken / attempted: 200 / 276
+[2026-09-22 15:27:04.576] [info]  - number of projections: 2
+[2026-09-22 15:27:04.576] [info]  - number of iterations: 276
+[2026-09-22 15:27:04.644] [info] -------
+[2026-09-22 15:27:04.645] [info] Manager
+[2026-09-22 15:27:04.645] [info] -------
+[2026-09-22 15:27:04.645] [info] Starting integration at initial time 0.12 s...
+[2026-09-22 15:27:07.594] [info] Integration complete at final time 0.16 s.
+[2026-09-22 15:27:07.594] [info]  - CPU time elapsed: 2.750000 s
+[2026-09-22 15:27:07.594] [info]  - real time elapsed: 2.948769 s
+[2026-09-22 15:27:07.594] [info]  - ratio sim-to-real time: 0.054
+[2026-09-22 15:27:07.594] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:27:07.594] [info]  - number of realizations: 2466
+[2026-09-22 15:27:07.594] [info]  - number of steps taken / attempted: 397 / 517
+[2026-09-22 15:27:07.594] [info]  - number of projections: 2
+[2026-09-22 15:27:07.594] [info]  - number of iterations: 517
+[2026-09-22 15:27:07.634] [info] -------
+[2026-09-22 15:27:07.635] [info] Manager
+[2026-09-22 15:27:07.635] [info] -------
+[2026-09-22 15:27:07.635] [info] Starting integration at initial time 0.16 s...
+[2026-09-22 15:27:18.082] [info] Integration complete at final time 0.20 s.
+[2026-09-22 15:27:18.082] [info]  - CPU time elapsed: 9.781250 s
+[2026-09-22 15:27:18.083] [info]  - real time elapsed: 10.446953 s
+[2026-09-22 15:27:18.083] [info]  - ratio sim-to-real time: 0.019
+[2026-09-22 15:27:18.083] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:27:18.083] [info]  - number of realizations: 9234
+[2026-09-22 15:27:18.083] [info]  - number of steps taken / attempted: 1561 / 1918
+[2026-09-22 15:27:18.083] [info]  - number of projections: 2
+[2026-09-22 15:27:18.083] [info]  - number of iterations: 1918
+[2026-09-22 15:27:18.171] [info] -------
+[2026-09-22 15:27:18.173] [info] Manager
+[2026-09-22 15:27:18.175] [info] -------
+[2026-09-22 15:27:18.176] [info] Starting integration at initial time 0.20 s...
+[2026-09-22 15:27:22.340] [info] Integration complete at final time 0.24 s.
+[2026-09-22 15:27:22.340] [info]  - CPU time elapsed: 3.734375 s
+[2026-09-22 15:27:22.340] [info]  - real time elapsed: 4.163824 s
+[2026-09-22 15:27:22.340] [info]  - ratio sim-to-real time: 0.058
+[2026-09-22 15:27:22.341] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:27:22.341] [info]  - number of realizations: 4658
+[2026-09-22 15:27:22.341] [info]  - number of steps taken / attempted: 757 / 975
+[2026-09-22 15:27:22.341] [info]  - number of projections: 2
+[2026-09-22 15:27:22.341] [info]  - number of iterations: 975
+[2026-09-22 15:27:22.374] [info] -------
+[2026-09-22 15:27:22.374] [info] Manager
+[2026-09-22 15:27:22.374] [info] -------
+[2026-09-22 15:27:22.374] [info] Starting integration at initial time 0.24 s...
+[2026-09-22 15:27:25.395] [info] Integration complete at final time 0.28 s.
+[2026-09-22 15:27:25.395] [info]  - CPU time elapsed: 2.953125 s
+[2026-09-22 15:27:25.396] [info]  - real time elapsed: 3.020855 s
+[2026-09-22 15:27:25.396] [info]  - ratio sim-to-real time: 0.093
+[2026-09-22 15:27:25.396] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:27:25.396] [info]  - number of realizations: 5413
+[2026-09-22 15:27:25.396] [info]  - number of steps taken / attempted: 812 / 1150
+[2026-09-22 15:27:25.396] [info]  - number of projections: 2
+[2026-09-22 15:27:25.396] [info]  - number of iterations: 1150
+[2026-09-22 15:27:25.443] [info] -------
+[2026-09-22 15:27:25.443] [info] Manager
+[2026-09-22 15:27:25.443] [info] -------
+[2026-09-22 15:27:25.443] [info] Starting integration at initial time 0.28 s...
+[2026-09-22 15:27:29.290] [info] Integration complete at final time 0.32 s.
+[2026-09-22 15:27:29.290] [info]  - CPU time elapsed: 2.468750 s
+[2026-09-22 15:27:29.290] [info]  - real time elapsed: 3.846833 s
+[2026-09-22 15:27:29.290] [info]  - ratio sim-to-real time: 0.083
+[2026-09-22 15:27:29.290] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:27:29.290] [info]  - number of realizations: 4457
+[2026-09-22 15:27:29.290] [info]  - number of steps taken / attempted: 628 / 957
+[2026-09-22 15:27:29.290] [info]  - number of projections: 2
+[2026-09-22 15:27:29.290] [info]  - number of iterations: 957
+[2026-09-22 15:27:29.317] [info] -------
+[2026-09-22 15:27:29.317] [info] Manager
+[2026-09-22 15:27:29.317] [info] -------
+[2026-09-22 15:27:29.317] [info] Starting integration at initial time 0.32 s...
+[2026-09-22 15:27:30.767] [info] Integration complete at final time 0.36 s.
+[2026-09-22 15:27:30.768] [info]  - CPU time elapsed: 1.453125 s
+[2026-09-22 15:27:30.768] [info]  - real time elapsed: 1.450310 s
+[2026-09-22 15:27:30.768] [info]  - ratio sim-to-real time: 0.248
+[2026-09-22 15:27:30.768] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:27:30.768] [info]  - number of realizations: 2762
+[2026-09-22 15:27:30.768] [info]  - number of steps taken / attempted: 405 / 589
+[2026-09-22 15:27:30.768] [info]  - number of projections: 2
+[2026-09-22 15:27:30.768] [info]  - number of iterations: 589
+[2026-09-22 15:27:30.798] [info] -------
+[2026-09-22 15:27:30.799] [info] Manager
+[2026-09-22 15:27:30.799] [info] -------
+[2026-09-22 15:27:30.799] [info] Starting integration at initial time 0.36 s...
+[2026-09-22 15:27:35.112] [info] Integration complete at final time 0.40 s.
+[2026-09-22 15:27:35.112] [info]  - CPU time elapsed: 4.187500 s
+[2026-09-22 15:27:35.112] [info]  - real time elapsed: 4.312894 s
+[2026-09-22 15:27:35.112] [info]  - ratio sim-to-real time: 0.093
+[2026-09-22 15:27:35.112] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:27:35.112] [info]  - number of realizations: 8134
+[2026-09-22 15:27:35.112] [info]  - number of steps taken / attempted: 1137 / 1749
+[2026-09-22 15:27:35.112] [info]  - number of projections: 2
+[2026-09-22 15:27:35.112] [info]  - number of iterations: 1749
+[2026-09-22 15:27:35.143] [info] -------
+[2026-09-22 15:27:35.143] [info] Manager
+[2026-09-22 15:27:35.143] [info] -------
+[2026-09-22 15:27:35.143] [info] Starting integration at initial time 0.40 s...
+[2026-09-22 15:45:27.380] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim_added_floor.osim
+[2026-09-22 15:45:27.383] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-22 15:45:27.391] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-22 15:45:27.392] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-22 15:45:27.392] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-22 15:45:27.392] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-22 15:45:27.400] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-22 15:45:27.401] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-22 15:45:30.062] [info] -------
+[2026-09-22 15:45:30.062] [info] Manager
+[2026-09-22 15:45:30.062] [info] -------
+[2026-09-22 15:45:30.062] [info] Starting integration at initial time 0.00 s...
+[2026-09-22 15:45:35.964] [info] Integration complete at final time 0.04 s.
+[2026-09-22 15:45:35.965] [info]  - CPU time elapsed: 5.703125 s
+[2026-09-22 15:45:35.965] [info]  - real time elapsed: 5.901960 s
+[2026-09-22 15:45:35.965] [info]  - ratio sim-to-real time: 0.007
+[2026-09-22 15:45:35.965] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:45:35.965] [info]  - number of realizations: 4221
+[2026-09-22 15:45:35.966] [info]  - number of steps taken / attempted: 664 / 889
+[2026-09-22 15:45:35.966] [info]  - number of projections: 0
+[2026-09-22 15:45:35.966] [info]  - number of iterations: 889
+[2026-09-22 15:45:36.039] [info] -------
+[2026-09-22 15:45:36.039] [info] Manager
+[2026-09-22 15:45:36.040] [info] -------
+[2026-09-22 15:45:36.040] [info] Starting integration at initial time 0.04 s...
+[2026-09-22 15:45:36.852] [info] Integration complete at final time 0.08 s.
+[2026-09-22 15:45:36.852] [info]  - CPU time elapsed: 0.796875 s
+[2026-09-22 15:45:36.852] [info]  - real time elapsed: 0.812041 s
+[2026-09-22 15:45:36.852] [info]  - ratio sim-to-real time: 0.099
+[2026-09-22 15:45:36.852] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:45:36.853] [info]  - number of realizations: 586
+[2026-09-22 15:45:36.853] [info]  - number of steps taken / attempted: 93 / 123
+[2026-09-22 15:45:36.853] [info]  - number of projections: 2
+[2026-09-22 15:45:36.853] [info]  - number of iterations: 123
+[2026-09-22 15:45:36.934] [info] -------
+[2026-09-22 15:45:36.934] [info] Manager
+[2026-09-22 15:45:36.934] [info] -------
+[2026-09-22 15:45:36.934] [info] Starting integration at initial time 0.08 s...
+[2026-09-22 15:45:38.977] [info] Integration complete at final time 0.12 s.
+[2026-09-22 15:45:38.977] [info]  - CPU time elapsed: 1.968750 s
+[2026-09-22 15:45:38.977] [info]  - real time elapsed: 2.042674 s
+[2026-09-22 15:45:38.977] [info]  - ratio sim-to-real time: 0.059
+[2026-09-22 15:45:38.978] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:45:38.978] [info]  - number of realizations: 1488
+[2026-09-22 15:45:38.978] [info]  - number of steps taken / attempted: 231 / 314
+[2026-09-22 15:45:38.978] [info]  - number of projections: 2
+[2026-09-22 15:45:38.978] [info]  - number of iterations: 314
+[2026-09-22 15:45:39.046] [info] -------
+[2026-09-22 15:45:39.047] [info] Manager
+[2026-09-22 15:45:39.047] [info] -------
+[2026-09-22 15:45:39.047] [info] Starting integration at initial time 0.12 s...
+[2026-09-22 15:45:45.019] [info] Integration complete at final time 0.16 s.
+[2026-09-22 15:45:45.019] [info]  - CPU time elapsed: 5.687500 s
+[2026-09-22 15:45:45.019] [info]  - real time elapsed: 5.971532 s
+[2026-09-22 15:45:45.019] [info]  - ratio sim-to-real time: 0.027
+[2026-09-22 15:45:45.019] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:45:45.019] [info]  - number of realizations: 4199
+[2026-09-22 15:45:45.019] [info]  - number of steps taken / attempted: 642 / 889
+[2026-09-22 15:45:45.019] [info]  - number of projections: 2
+[2026-09-22 15:45:45.019] [info]  - number of iterations: 889
+[2026-09-22 15:45:45.093] [info] -------
+[2026-09-22 15:45:45.093] [info] Manager
+[2026-09-22 15:45:45.094] [info] -------
+[2026-09-22 15:45:45.094] [info] Starting integration at initial time 0.16 s...
+[2026-09-22 15:45:48.430] [info] Integration complete at final time 0.20 s.
+[2026-09-22 15:45:48.431] [info]  - CPU time elapsed: 3.031250 s
+[2026-09-22 15:45:48.431] [info]  - real time elapsed: 3.336212 s
+[2026-09-22 15:45:48.431] [info]  - ratio sim-to-real time: 0.060
+[2026-09-22 15:45:48.431] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:45:48.431] [info]  - number of realizations: 2324
+[2026-09-22 15:45:48.431] [info]  - number of steps taken / attempted: 387 / 484
+[2026-09-22 15:45:48.431] [info]  - number of projections: 2
+[2026-09-22 15:45:48.431] [info]  - number of iterations: 484
+[2026-09-22 15:45:48.547] [info] -------
+[2026-09-22 15:45:48.547] [info] Manager
+[2026-09-22 15:45:48.548] [info] -------
+[2026-09-22 15:45:48.548] [info] Starting integration at initial time 0.20 s...
+[2026-09-22 15:45:56.097] [info] Integration complete at final time 0.24 s.
+[2026-09-22 15:45:56.097] [info]  - CPU time elapsed: 6.968750 s
+[2026-09-22 15:45:56.097] [info]  - real time elapsed: 7.548882 s
+[2026-09-22 15:45:56.097] [info]  - ratio sim-to-real time: 0.032
+[2026-09-22 15:45:56.097] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:45:56.097] [info]  - number of realizations: 4210
+[2026-09-22 15:45:56.098] [info]  - number of steps taken / attempted: 677 / 883
+[2026-09-22 15:45:56.098] [info]  - number of projections: 2
+[2026-09-22 15:45:56.098] [info]  - number of iterations: 883
+[2026-09-22 15:45:56.169] [info] -------
+[2026-09-22 15:45:56.169] [info] Manager
+[2026-09-22 15:45:56.169] [info] -------
+[2026-09-22 15:45:56.169] [info] Starting integration at initial time 0.24 s...
+[2026-09-22 15:45:59.730] [info] Integration complete at final time 0.28 s.
+[2026-09-22 15:45:59.731] [info]  - CPU time elapsed: 3.421875 s
+[2026-09-22 15:45:59.731] [info]  - real time elapsed: 3.560966 s
+[2026-09-22 15:45:59.731] [info]  - ratio sim-to-real time: 0.079
+[2026-09-22 15:45:59.731] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:45:59.731] [info]  - number of realizations: 1915
+[2026-09-22 15:45:59.731] [info]  - number of steps taken / attempted: 294 / 405
+[2026-09-22 15:45:59.732] [info]  - number of projections: 2
+[2026-09-22 15:45:59.732] [info]  - number of iterations: 405
+[2026-09-22 15:45:59.802] [info] -------
+[2026-09-22 15:45:59.803] [info] Manager
+[2026-09-22 15:45:59.803] [info] -------
+[2026-09-22 15:45:59.803] [info] Starting integration at initial time 0.28 s...
+[2026-09-22 15:46:02.893] [info] Integration complete at final time 0.32 s.
+[2026-09-22 15:46:02.893] [info]  - CPU time elapsed: 2.843750 s
+[2026-09-22 15:46:02.893] [info]  - real time elapsed: 3.089492 s
+[2026-09-22 15:46:02.894] [info]  - ratio sim-to-real time: 0.104
+[2026-09-22 15:46:02.894] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:46:02.894] [info]  - number of realizations: 1647
+[2026-09-22 15:46:02.895] [info]  - number of steps taken / attempted: 258 / 347
+[2026-09-22 15:46:02.895] [info]  - number of projections: 2
+[2026-09-22 15:46:02.895] [info]  - number of iterations: 347
+[2026-09-22 15:46:02.980] [info] -------
+[2026-09-22 15:46:02.981] [info] Manager
+[2026-09-22 15:46:02.981] [info] -------
+[2026-09-22 15:46:02.982] [info] Starting integration at initial time 0.32 s...
+[2026-09-22 15:46:06.208] [info] Integration complete at final time 0.36 s.
+[2026-09-22 15:46:06.210] [info]  - CPU time elapsed: 2.921875 s
+[2026-09-22 15:46:06.210] [info]  - real time elapsed: 3.226141 s
+[2026-09-22 15:46:06.210] [info]  - ratio sim-to-real time: 0.112
+[2026-09-22 15:46:06.211] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:46:06.211] [info]  - number of realizations: 1933
+[2026-09-22 15:46:06.211] [info]  - number of steps taken / attempted: 280 / 413
+[2026-09-22 15:46:06.212] [info]  - number of projections: 2
+[2026-09-22 15:46:06.212] [info]  - number of iterations: 413
+[2026-09-22 15:46:16.768] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim_added_floor.osim
+[2026-09-22 15:46:16.773] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-22 15:46:16.786] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-22 15:46:16.786] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-22 15:46:16.786] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-22 15:46:16.787] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-22 15:46:16.797] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-22 15:46:16.798] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-22 15:46:19.427] [info] -------
+[2026-09-22 15:46:19.427] [info] Manager
+[2026-09-22 15:46:19.428] [info] -------
+[2026-09-22 15:46:19.428] [info] Starting integration at initial time 0.00 s...
+[2026-09-22 15:46:24.706] [info] Integration complete at final time 0.04 s.
+[2026-09-22 15:46:24.707] [info]  - CPU time elapsed: 4.828125 s
+[2026-09-22 15:46:24.707] [info]  - real time elapsed: 5.278335 s
+[2026-09-22 15:46:24.707] [info]  - ratio sim-to-real time: 0.008
+[2026-09-22 15:46:24.707] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:46:24.707] [info]  - number of realizations: 3499
+[2026-09-22 15:46:24.707] [info]  - number of steps taken / attempted: 574 / 731
+[2026-09-22 15:46:24.707] [info]  - number of projections: 1
+[2026-09-22 15:46:24.707] [info]  - number of iterations: 731
+[2026-09-22 15:46:24.776] [info] -------
+[2026-09-22 15:46:24.776] [info] Manager
+[2026-09-22 15:46:24.777] [info] -------
+[2026-09-22 15:46:24.777] [info] Starting integration at initial time 0.04 s...
+[2026-09-22 15:46:25.196] [info] Integration complete at final time 0.08 s.
+[2026-09-22 15:46:25.196] [info]  - CPU time elapsed: 0.406250 s
+[2026-09-22 15:46:25.196] [info]  - real time elapsed: 0.418569 s
+[2026-09-22 15:46:25.196] [info]  - ratio sim-to-real time: 0.191
+[2026-09-22 15:46:25.196] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:46:25.196] [info]  - number of realizations: 313
+[2026-09-22 15:46:25.196] [info]  - number of steps taken / attempted: 44 / 67
+[2026-09-22 15:46:25.196] [info]  - number of projections: 2
+[2026-09-22 15:46:25.197] [info]  - number of iterations: 67
+[2026-09-22 15:46:25.260] [info] -------
+[2026-09-22 15:46:25.260] [info] Manager
+[2026-09-22 15:46:25.260] [info] -------
+[2026-09-22 15:46:25.261] [info] Starting integration at initial time 0.08 s...
+[2026-09-22 15:46:25.996] [info] Integration complete at final time 0.12 s.
+[2026-09-22 15:46:25.996] [info]  - CPU time elapsed: 0.703125 s
+[2026-09-22 15:46:25.996] [info]  - real time elapsed: 0.735007 s
+[2026-09-22 15:46:25.996] [info]  - ratio sim-to-real time: 0.163
+[2026-09-22 15:46:25.996] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:46:25.996] [info]  - number of realizations: 524
+[2026-09-22 15:46:25.996] [info]  - number of steps taken / attempted: 79 / 111
+[2026-09-22 15:46:25.996] [info]  - number of projections: 2
+[2026-09-22 15:46:25.996] [info]  - number of iterations: 111
+[2026-09-22 15:46:26.065] [info] -------
+[2026-09-22 15:46:26.066] [info] Manager
+[2026-09-22 15:46:26.066] [info] -------
+[2026-09-22 15:46:26.066] [info] Starting integration at initial time 0.12 s...
+[2026-09-22 15:46:33.773] [info] Integration complete at final time 0.16 s.
+[2026-09-22 15:46:33.773] [info]  - CPU time elapsed: 7.437500 s
+[2026-09-22 15:46:33.774] [info]  - real time elapsed: 7.707095 s
+[2026-09-22 15:46:33.774] [info]  - ratio sim-to-real time: 0.021
+[2026-09-22 15:46:33.774] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:46:33.774] [info]  - number of realizations: 5731
+[2026-09-22 15:46:33.774] [info]  - number of steps taken / attempted: 942 / 1197
+[2026-09-22 15:46:33.774] [info]  - number of projections: 2
+[2026-09-22 15:46:33.774] [info]  - number of iterations: 1197
+[2026-09-22 15:46:33.838] [info] -------
+[2026-09-22 15:46:33.838] [info] Manager
+[2026-09-22 15:46:33.838] [info] -------
+[2026-09-22 15:46:33.838] [info] Starting integration at initial time 0.16 s...
+[2026-09-22 15:46:35.259] [info] Integration complete at final time 0.20 s.
+[2026-09-22 15:46:35.260] [info]  - CPU time elapsed: 1.359375 s
+[2026-09-22 15:46:35.260] [info]  - real time elapsed: 1.420908 s
+[2026-09-22 15:46:35.260] [info]  - ratio sim-to-real time: 0.141
+[2026-09-22 15:46:35.260] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:46:35.260] [info]  - number of realizations: 1077
+[2026-09-22 15:46:35.260] [info]  - number of steps taken / attempted: 160 / 229
+[2026-09-22 15:46:35.260] [info]  - number of projections: 2
+[2026-09-22 15:46:35.260] [info]  - number of iterations: 229
+[2026-09-22 15:46:35.371] [info] -------
+[2026-09-22 15:46:35.372] [info] Manager
+[2026-09-22 15:46:35.372] [info] -------
+[2026-09-22 15:46:35.372] [info] Starting integration at initial time 0.20 s...
+[2026-09-22 15:46:38.614] [info] Integration complete at final time 0.24 s.
+[2026-09-22 15:46:38.615] [info]  - CPU time elapsed: 3.156250 s
+[2026-09-22 15:46:38.615] [info]  - real time elapsed: 3.241775 s
+[2026-09-22 15:46:38.615] [info]  - ratio sim-to-real time: 0.074
+[2026-09-22 15:46:38.615] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:46:38.615] [info]  - number of realizations: 2380
+[2026-09-22 15:46:38.615] [info]  - number of steps taken / attempted: 379 / 500
+[2026-09-22 15:46:38.616] [info]  - number of projections: 2
+[2026-09-22 15:46:38.616] [info]  - number of iterations: 500
+[2026-09-22 15:46:38.689] [info] -------
+[2026-09-22 15:46:38.690] [info] Manager
+[2026-09-22 15:46:38.690] [info] -------
+[2026-09-22 15:46:38.690] [info] Starting integration at initial time 0.24 s...
+[2026-09-22 15:46:40.791] [info] Integration complete at final time 0.28 s.
+[2026-09-22 15:46:40.791] [info]  - CPU time elapsed: 2.062500 s
+[2026-09-22 15:46:40.792] [info]  - real time elapsed: 2.100944 s
+[2026-09-22 15:46:40.792] [info]  - ratio sim-to-real time: 0.133
+[2026-09-22 15:46:40.792] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:46:40.792] [info]  - number of realizations: 1520
+[2026-09-22 15:46:40.792] [info]  - number of steps taken / attempted: 211 / 327
+[2026-09-22 15:46:40.792] [info]  - number of projections: 2
+[2026-09-22 15:46:40.792] [info]  - number of iterations: 327
+[2026-09-22 15:46:40.865] [info] -------
+[2026-09-22 15:46:40.865] [info] Manager
+[2026-09-22 15:46:40.865] [info] -------
+[2026-09-22 15:46:40.865] [info] Starting integration at initial time 0.28 s...
+[2026-09-22 15:46:44.097] [info] Integration complete at final time 0.32 s.
+[2026-09-22 15:46:44.097] [info]  - CPU time elapsed: 3.078125 s
+[2026-09-22 15:46:44.097] [info]  - real time elapsed: 3.231651 s
+[2026-09-22 15:46:44.098] [info]  - ratio sim-to-real time: 0.099
+[2026-09-22 15:46:44.098] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:46:44.098] [info]  - number of realizations: 2435
+[2026-09-22 15:46:44.098] [info]  - number of steps taken / attempted: 390 / 511
+[2026-09-22 15:46:44.098] [info]  - number of projections: 2
+[2026-09-22 15:46:44.098] [info]  - number of iterations: 511
+[2026-09-22 15:46:44.164] [info] -------
+[2026-09-22 15:46:44.164] [info] Manager
+[2026-09-22 15:46:44.164] [info] -------
+[2026-09-22 15:46:44.164] [info] Starting integration at initial time 0.32 s...
+[2026-09-22 15:46:46.637] [info] Integration complete at final time 0.36 s.
+[2026-09-22 15:46:46.637] [info]  - CPU time elapsed: 2.359375 s
+[2026-09-22 15:46:46.637] [info]  - real time elapsed: 2.471965 s
+[2026-09-22 15:46:46.637] [info]  - ratio sim-to-real time: 0.146
+[2026-09-22 15:46:46.637] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:46:46.637] [info]  - number of realizations: 1671
+[2026-09-22 15:46:46.638] [info]  - number of steps taken / attempted: 262 / 352
+[2026-09-22 15:46:46.638] [info]  - number of projections: 2
+[2026-09-22 15:46:46.638] [info]  - number of iterations: 352
+[2026-09-22 15:46:46.709] [info] -------
+[2026-09-22 15:46:46.710] [info] Manager
+[2026-09-22 15:46:46.710] [info] -------
+[2026-09-22 15:46:46.710] [info] Starting integration at initial time 0.36 s...
+[2026-09-22 15:46:48.497] [info] Integration complete at final time 0.40 s.
+[2026-09-22 15:46:48.498] [info]  - CPU time elapsed: 1.718750 s
+[2026-09-22 15:46:48.498] [info]  - real time elapsed: 1.787475 s
+[2026-09-22 15:46:48.498] [info]  - ratio sim-to-real time: 0.224
+[2026-09-22 15:46:48.498] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:46:48.499] [info]  - number of realizations: 1286
+[2026-09-22 15:46:48.499] [info]  - number of steps taken / attempted: 201 / 271
+[2026-09-22 15:46:48.499] [info]  - number of projections: 2
+[2026-09-22 15:46:48.499] [info]  - number of iterations: 271
+[2026-09-22 15:46:48.566] [info] -------
+[2026-09-22 15:46:48.567] [info] Manager
+[2026-09-22 15:46:48.567] [info] -------
+[2026-09-22 15:46:48.567] [info] Starting integration at initial time 0.40 s...
+[2026-09-22 15:46:50.513] [info] Integration complete at final time 0.44 s.
+[2026-09-22 15:46:50.513] [info]  - CPU time elapsed: 1.843750 s
+[2026-09-22 15:46:50.513] [info]  - real time elapsed: 1.945834 s
+[2026-09-22 15:46:50.513] [info]  - ratio sim-to-real time: 0.226
+[2026-09-22 15:46:50.513] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:46:50.513] [info]  - number of realizations: 1326
+[2026-09-22 15:46:50.513] [info]  - number of steps taken / attempted: 197 / 282
+[2026-09-22 15:46:50.513] [info]  - number of projections: 2
+[2026-09-22 15:46:50.513] [info]  - number of iterations: 282
+[2026-09-22 15:46:50.585] [info] -------
+[2026-09-22 15:46:50.585] [info] Manager
+[2026-09-22 15:46:50.586] [info] -------
+[2026-09-22 15:46:50.586] [info] Starting integration at initial time 0.44 s...
+[2026-09-22 15:46:53.539] [info] Integration complete at final time 0.48 s.
+[2026-09-22 15:46:53.539] [info]  - CPU time elapsed: 2.828125 s
+[2026-09-22 15:46:53.540] [info]  - real time elapsed: 2.953166 s
+[2026-09-22 15:46:53.540] [info]  - ratio sim-to-real time: 0.163
+[2026-09-22 15:46:53.540] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:46:53.540] [info]  - number of realizations: 1986
+[2026-09-22 15:46:53.540] [info]  - number of steps taken / attempted: 297 / 422
+[2026-09-22 15:46:53.540] [info]  - number of projections: 2
+[2026-09-22 15:46:53.540] [info]  - number of iterations: 422
+[2026-09-22 15:46:53.613] [info] -------
+[2026-09-22 15:46:53.613] [info] Manager
+[2026-09-22 15:46:53.613] [info] -------
+[2026-09-22 15:46:53.614] [info] Starting integration at initial time 0.48 s...
+[2026-09-22 15:47:00.463] [info] Integration complete at final time 0.52 s.
+[2026-09-22 15:47:00.463] [info]  - CPU time elapsed: 6.359375 s
+[2026-09-22 15:47:00.463] [info]  - real time elapsed: 6.849079 s
+[2026-09-22 15:47:00.463] [info]  - ratio sim-to-real time: 0.076
+[2026-09-22 15:47:00.463] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:47:00.463] [info]  - number of realizations: 4412
+[2026-09-22 15:47:00.463] [info]  - number of steps taken / attempted: 603 / 952
+[2026-09-22 15:47:00.463] [info]  - number of projections: 2
+[2026-09-22 15:47:00.463] [info]  - number of iterations: 952
+[2026-09-22 15:47:00.533] [info] -------
+[2026-09-22 15:47:00.533] [info] Manager
+[2026-09-22 15:47:00.533] [info] -------
+[2026-09-22 15:47:00.533] [info] Starting integration at initial time 0.52 s...
+[2026-09-22 15:47:16.195] [info] Integration complete at final time 0.56 s.
+[2026-09-22 15:47:16.195] [info]  - CPU time elapsed: 14.828125 s
+[2026-09-22 15:47:16.196] [info]  - real time elapsed: 15.662097 s
+[2026-09-22 15:47:16.196] [info]  - ratio sim-to-real time: 0.036
+[2026-09-22 15:47:16.196] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:47:16.196] [info]  - number of realizations: 11383
+[2026-09-22 15:47:16.196] [info]  - number of steps taken / attempted: 1750 / 2408
+[2026-09-22 15:47:16.196] [info]  - number of projections: 2
+[2026-09-22 15:47:16.196] [info]  - number of iterations: 2408
+[2026-09-22 15:47:16.274] [info] -------
+[2026-09-22 15:47:16.274] [info] Manager
+[2026-09-22 15:47:16.274] [info] -------
+[2026-09-22 15:47:16.274] [info] Starting integration at initial time 0.56 s...
+[2026-09-22 15:47:42.673] [info] Integration complete at final time 0.60 s.
+[2026-09-22 15:47:42.673] [info]  - CPU time elapsed: 25.437500 s
+[2026-09-22 15:47:42.673] [info]  - real time elapsed: 26.398532 s
+[2026-09-22 15:47:42.673] [info]  - ratio sim-to-real time: 0.023
+[2026-09-22 15:47:42.674] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:47:42.674] [info]  - number of realizations: 20187
+[2026-09-22 15:47:42.674] [info]  - number of steps taken / attempted: 3006 / 4295
+[2026-09-22 15:47:42.674] [info]  - number of projections: 2
+[2026-09-22 15:47:42.675] [info]  - number of iterations: 4295
+[2026-09-22 15:47:42.763] [info] -------
+[2026-09-22 15:47:42.763] [info] Manager
+[2026-09-22 15:47:42.763] [info] -------
+[2026-09-22 15:47:42.763] [info] Starting integration at initial time 0.60 s...
+[2026-09-22 15:48:15.973] [info] Integration complete at final time 0.64 s.
+[2026-09-22 15:48:15.973] [info]  - CPU time elapsed: 30.609375 s
+[2026-09-22 15:48:15.974] [info]  - real time elapsed: 33.209764 s
+[2026-09-22 15:48:15.974] [info]  - ratio sim-to-real time: 0.019
+[2026-09-22 15:48:15.974] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:48:15.974] [info]  - number of realizations: 28086
+[2026-09-22 15:48:15.974] [info]  - number of steps taken / attempted: 4049 / 6009
+[2026-09-22 15:48:15.974] [info]  - number of projections: 2
+[2026-09-22 15:48:15.975] [info]  - number of iterations: 6009
+[2026-09-22 15:48:16.041] [info] -------
+[2026-09-22 15:48:16.041] [info] Manager
+[2026-09-22 15:48:16.042] [info] -------
+[2026-09-22 15:48:16.042] [info] Starting integration at initial time 0.64 s...
+[2026-09-22 15:48:39.321] [info] Integration complete at final time 0.68 s.
+[2026-09-22 15:48:39.321] [info]  - CPU time elapsed: 22.109375 s
+[2026-09-22 15:48:39.321] [info]  - real time elapsed: 23.279208 s
+[2026-09-22 15:48:39.322] [info]  - ratio sim-to-real time: 0.029
+[2026-09-22 15:48:39.322] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:48:39.322] [info]  - number of realizations: 17847
+[2026-09-22 15:48:39.322] [info]  - number of steps taken / attempted: 2526 / 3830
+[2026-09-22 15:48:39.322] [info]  - number of projections: 2
+[2026-09-22 15:48:39.322] [info]  - number of iterations: 3830
+[2026-09-22 15:48:39.407] [info] -------
+[2026-09-22 15:48:39.408] [info] Manager
+[2026-09-22 15:48:39.408] [info] -------
+[2026-09-22 15:48:39.408] [info] Starting integration at initial time 0.68 s...
+[2026-09-22 15:49:33.489] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim_added_floor.osim
+[2026-09-22 15:49:33.494] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-22 15:49:33.506] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-22 15:49:33.506] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-22 15:49:33.506] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-22 15:49:33.506] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-22 15:49:33.517] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-22 15:49:33.517] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-22 15:53:29.838] [info] -------
+[2026-09-22 15:53:29.838] [info] Manager
+[2026-09-22 15:53:29.838] [info] -------
+[2026-09-22 15:53:29.839] [info] Starting integration at initial time 0.00 s...
+[2026-09-22 15:53:34.672] [info] Integration complete at final time 0.04 s.
+[2026-09-22 15:53:34.672] [info]  - CPU time elapsed: 4.578125 s
+[2026-09-22 15:53:34.672] [info]  - real time elapsed: 4.833206 s
+[2026-09-22 15:53:34.672] [info]  - ratio sim-to-real time: 0.008
+[2026-09-22 15:53:34.672] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:53:34.672] [info]  - number of realizations: 3499
+[2026-09-22 15:53:34.673] [info]  - number of steps taken / attempted: 574 / 731
+[2026-09-22 15:53:34.673] [info]  - number of projections: 1
+[2026-09-22 15:53:34.673] [info]  - number of iterations: 731
+[2026-09-22 15:53:34.741] [info] -------
+[2026-09-22 15:53:34.741] [info] Manager
+[2026-09-22 15:53:34.742] [info] -------
+[2026-09-22 15:53:34.742] [info] Starting integration at initial time 0.04 s...
+[2026-09-22 15:53:35.149] [info] Integration complete at final time 0.08 s.
+[2026-09-22 15:53:35.149] [info]  - CPU time elapsed: 0.406250 s
+[2026-09-22 15:53:35.149] [info]  - real time elapsed: 0.406733 s
+[2026-09-22 15:53:35.149] [info]  - ratio sim-to-real time: 0.197
+[2026-09-22 15:53:35.149] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:53:35.149] [info]  - number of realizations: 313
+[2026-09-22 15:53:35.149] [info]  - number of steps taken / attempted: 44 / 67
+[2026-09-22 15:53:35.149] [info]  - number of projections: 2
+[2026-09-22 15:53:35.149] [info]  - number of iterations: 67
+[2026-09-22 15:53:35.212] [info] -------
+[2026-09-22 15:53:35.213] [info] Manager
+[2026-09-22 15:53:35.213] [info] -------
+[2026-09-22 15:53:35.213] [info] Starting integration at initial time 0.08 s...
+[2026-09-22 15:53:35.988] [info] Integration complete at final time 0.12 s.
+[2026-09-22 15:53:35.988] [info]  - CPU time elapsed: 0.671875 s
+[2026-09-22 15:53:35.988] [info]  - real time elapsed: 0.774691 s
+[2026-09-22 15:53:35.988] [info]  - ratio sim-to-real time: 0.155
+[2026-09-22 15:53:35.988] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:53:35.988] [info]  - number of realizations: 524
+[2026-09-22 15:53:35.988] [info]  - number of steps taken / attempted: 79 / 111
+[2026-09-22 15:53:35.988] [info]  - number of projections: 2
+[2026-09-22 15:53:35.988] [info]  - number of iterations: 111
+[2026-09-22 15:53:36.062] [info] -------
+[2026-09-22 15:53:36.062] [info] Manager
+[2026-09-22 15:53:36.062] [info] -------
+[2026-09-22 15:53:36.062] [info] Starting integration at initial time 0.12 s...
+[2026-09-22 15:53:44.347] [info] Integration complete at final time 0.16 s.
+[2026-09-22 15:53:44.348] [info]  - CPU time elapsed: 7.640625 s
+[2026-09-22 15:53:44.349] [info]  - real time elapsed: 8.284646 s
+[2026-09-22 15:53:44.349] [info]  - ratio sim-to-real time: 0.019
+[2026-09-22 15:53:44.349] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:53:44.349] [info]  - number of realizations: 5731
+[2026-09-22 15:53:44.350] [info]  - number of steps taken / attempted: 942 / 1197
+[2026-09-22 15:53:44.350] [info]  - number of projections: 2
+[2026-09-22 15:53:44.350] [info]  - number of iterations: 1197
+[2026-09-22 15:53:44.427] [info] -------
+[2026-09-22 15:53:44.427] [info] Manager
+[2026-09-22 15:53:44.427] [info] -------
+[2026-09-22 15:53:44.427] [info] Starting integration at initial time 0.16 s...
+[2026-09-22 15:53:46.099] [info] Integration complete at final time 0.20 s.
+[2026-09-22 15:53:46.099] [info]  - CPU time elapsed: 1.437500 s
+[2026-09-22 15:53:46.099] [info]  - real time elapsed: 1.671333 s
+[2026-09-22 15:53:46.099] [info]  - ratio sim-to-real time: 0.120
+[2026-09-22 15:53:46.100] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:53:46.100] [info]  - number of realizations: 1077
+[2026-09-22 15:53:46.100] [info]  - number of steps taken / attempted: 160 / 229
+[2026-09-22 15:53:46.100] [info]  - number of projections: 2
+[2026-09-22 15:53:46.100] [info]  - number of iterations: 229
+[2026-09-22 15:53:46.216] [info] -------
+[2026-09-22 15:53:46.216] [info] Manager
+[2026-09-22 15:53:46.216] [info] -------
+[2026-09-22 15:53:46.216] [info] Starting integration at initial time 0.20 s...
+[2026-09-22 15:53:49.655] [info] Integration complete at final time 0.24 s.
+[2026-09-22 15:53:49.655] [info]  - CPU time elapsed: 3.109375 s
+[2026-09-22 15:53:49.655] [info]  - real time elapsed: 3.438158 s
+[2026-09-22 15:53:49.655] [info]  - ratio sim-to-real time: 0.070
+[2026-09-22 15:53:49.655] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:53:49.655] [info]  - number of realizations: 2380
+[2026-09-22 15:53:49.655] [info]  - number of steps taken / attempted: 379 / 500
+[2026-09-22 15:53:49.656] [info]  - number of projections: 2
+[2026-09-22 15:53:49.656] [info]  - number of iterations: 500
+[2026-09-22 15:53:49.727] [info] -------
+[2026-09-22 15:53:49.727] [info] Manager
+[2026-09-22 15:53:49.727] [info] -------
+[2026-09-22 15:53:49.727] [info] Starting integration at initial time 0.24 s...
+[2026-09-22 15:53:51.914] [info] Integration complete at final time 0.28 s.
+[2026-09-22 15:53:51.914] [info]  - CPU time elapsed: 2.000000 s
+[2026-09-22 15:53:51.914] [info]  - real time elapsed: 2.186326 s
+[2026-09-22 15:53:51.914] [info]  - ratio sim-to-real time: 0.128
+[2026-09-22 15:53:51.914] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:53:51.914] [info]  - number of realizations: 1520
+[2026-09-22 15:53:51.915] [info]  - number of steps taken / attempted: 211 / 327
+[2026-09-22 15:53:51.915] [info]  - number of projections: 2
+[2026-09-22 15:53:51.915] [info]  - number of iterations: 327
+[2026-09-22 15:53:51.976] [info] -------
+[2026-09-22 15:53:51.976] [info] Manager
+[2026-09-22 15:53:51.977] [info] -------
+[2026-09-22 15:53:51.977] [info] Starting integration at initial time 0.28 s...
+[2026-09-22 15:53:55.264] [info] Integration complete at final time 0.32 s.
+[2026-09-22 15:53:55.265] [info]  - CPU time elapsed: 3.000000 s
+[2026-09-22 15:53:55.265] [info]  - real time elapsed: 3.287129 s
+[2026-09-22 15:53:55.265] [info]  - ratio sim-to-real time: 0.097
+[2026-09-22 15:53:55.265] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:53:55.265] [info]  - number of realizations: 2435
+[2026-09-22 15:53:55.265] [info]  - number of steps taken / attempted: 390 / 511
+[2026-09-22 15:53:55.265] [info]  - number of projections: 2
+[2026-09-22 15:53:55.265] [info]  - number of iterations: 511
+[2026-09-22 15:53:55.334] [info] -------
+[2026-09-22 15:53:55.334] [info] Manager
+[2026-09-22 15:53:55.334] [info] -------
+[2026-09-22 15:53:55.334] [info] Starting integration at initial time 0.32 s...
+[2026-09-22 15:53:57.602] [info] Integration complete at final time 0.36 s.
+[2026-09-22 15:53:57.602] [info]  - CPU time elapsed: 2.156250 s
+[2026-09-22 15:53:57.602] [info]  - real time elapsed: 2.266762 s
+[2026-09-22 15:53:57.602] [info]  - ratio sim-to-real time: 0.159
+[2026-09-22 15:53:57.602] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:53:57.602] [info]  - number of realizations: 1671
+[2026-09-22 15:53:57.602] [info]  - number of steps taken / attempted: 262 / 352
+[2026-09-22 15:53:57.602] [info]  - number of projections: 2
+[2026-09-22 15:53:57.602] [info]  - number of iterations: 352
+[2026-09-22 15:53:57.673] [info] -------
+[2026-09-22 15:53:57.675] [info] Manager
+[2026-09-22 15:53:57.675] [info] -------
+[2026-09-22 15:53:57.675] [info] Starting integration at initial time 0.36 s...
+[2026-09-22 15:53:59.540] [info] Integration complete at final time 0.40 s.
+[2026-09-22 15:53:59.541] [info]  - CPU time elapsed: 1.734375 s
+[2026-09-22 15:53:59.541] [info]  - real time elapsed: 1.864634 s
+[2026-09-22 15:53:59.541] [info]  - ratio sim-to-real time: 0.215
+[2026-09-22 15:53:59.541] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:53:59.541] [info]  - number of realizations: 1286
+[2026-09-22 15:53:59.541] [info]  - number of steps taken / attempted: 201 / 271
+[2026-09-22 15:53:59.541] [info]  - number of projections: 2
+[2026-09-22 15:53:59.541] [info]  - number of iterations: 271
+[2026-09-22 15:53:59.606] [info] -------
+[2026-09-22 15:53:59.606] [info] Manager
+[2026-09-22 15:53:59.607] [info] -------
+[2026-09-22 15:53:59.607] [info] Starting integration at initial time 0.40 s...
+[2026-09-22 15:54:01.685] [info] Integration complete at final time 0.44 s.
+[2026-09-22 15:54:01.687] [info]  - CPU time elapsed: 1.906250 s
+[2026-09-22 15:54:01.688] [info]  - real time elapsed: 2.077435 s
+[2026-09-22 15:54:01.688] [info]  - ratio sim-to-real time: 0.212
+[2026-09-22 15:54:01.688] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:54:01.688] [info]  - number of realizations: 1326
+[2026-09-22 15:54:01.688] [info]  - number of steps taken / attempted: 197 / 282
+[2026-09-22 15:54:01.688] [info]  - number of projections: 2
+[2026-09-22 15:54:01.688] [info]  - number of iterations: 282
+[2026-09-22 15:54:01.768] [info] -------
+[2026-09-22 15:54:01.768] [info] Manager
+[2026-09-22 15:54:01.768] [info] -------
+[2026-09-22 15:54:01.769] [info] Starting integration at initial time 0.44 s...
+[2026-09-22 15:54:02.956] [info] Integration complete at final time 0.48 s.
+[2026-09-22 15:54:02.957] [info]  - CPU time elapsed: 1.140625 s
+[2026-09-22 15:54:02.957] [info]  - real time elapsed: 1.187132 s
+[2026-09-22 15:54:02.958] [info]  - ratio sim-to-real time: 0.404
+[2026-09-22 15:54:02.958] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:54:02.958] [info]  - number of realizations: 1986
+[2026-09-22 15:54:02.958] [info]  - number of steps taken / attempted: 297 / 422
+[2026-09-22 15:54:02.958] [info]  - number of projections: 2
+[2026-09-22 15:54:02.958] [info]  - number of iterations: 422
+[2026-09-22 15:54:02.986] [info] -------
+[2026-09-22 15:54:02.987] [info] Manager
+[2026-09-22 15:54:02.987] [info] -------
+[2026-09-22 15:54:02.987] [info] Starting integration at initial time 0.48 s...
+[2026-09-22 15:54:05.751] [info] Integration complete at final time 0.52 s.
+[2026-09-22 15:54:05.751] [info]  - CPU time elapsed: 2.765625 s
+[2026-09-22 15:54:05.751] [info]  - real time elapsed: 2.763666 s
+[2026-09-22 15:54:05.751] [info]  - ratio sim-to-real time: 0.188
+[2026-09-22 15:54:05.752] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:54:05.752] [info]  - number of realizations: 4412
+[2026-09-22 15:54:05.752] [info]  - number of steps taken / attempted: 603 / 952
+[2026-09-22 15:54:05.752] [info]  - number of projections: 2
+[2026-09-22 15:54:05.752] [info]  - number of iterations: 952
+[2026-09-22 15:54:05.807] [info] -------
+[2026-09-22 15:54:05.807] [info] Manager
+[2026-09-22 15:54:05.808] [info] -------
+[2026-09-22 15:54:05.808] [info] Starting integration at initial time 0.52 s...
+[2026-09-22 15:54:25.421] [info] Integration complete at final time 0.56 s.
+[2026-09-22 15:54:25.424] [info]  - CPU time elapsed: 18.453125 s
+[2026-09-22 15:54:25.426] [info]  - real time elapsed: 19.612775 s
+[2026-09-22 15:54:25.426] [info]  - ratio sim-to-real time: 0.029
+[2026-09-22 15:54:25.426] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:54:25.426] [info]  - number of realizations: 11383
+[2026-09-22 15:54:25.426] [info]  - number of steps taken / attempted: 1750 / 2408
+[2026-09-22 15:54:25.426] [info]  - number of projections: 2
+[2026-09-22 15:54:25.427] [info]  - number of iterations: 2408
+[2026-09-22 15:54:25.516] [info] -------
+[2026-09-22 15:54:25.516] [info] Manager
+[2026-09-22 15:54:25.516] [info] -------
+[2026-09-22 15:54:25.516] [info] Starting integration at initial time 0.56 s...
+[2026-09-22 15:55:54.684] [info] Integration complete at final time 0.60 s.
+[2026-09-22 15:55:54.685] [info]  - CPU time elapsed: 40.328125 s
+[2026-09-22 15:55:54.685] [info]  - real time elapsed: 89.167180 s
+[2026-09-22 15:55:54.685] [info]  - ratio sim-to-real time: 0.007
+[2026-09-22 15:55:54.685] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:55:54.686] [info]  - number of realizations: 20187
+[2026-09-22 15:55:54.686] [info]  - number of steps taken / attempted: 3006 / 4295
+[2026-09-22 15:55:54.686] [info]  - number of projections: 2
+[2026-09-22 15:55:54.686] [info]  - number of iterations: 4295
+[2026-09-22 15:55:54.767] [info] -------
+[2026-09-22 15:55:54.768] [info] Manager
+[2026-09-22 15:55:54.768] [info] -------
+[2026-09-22 15:55:54.768] [info] Starting integration at initial time 0.60 s...
+[2026-09-22 15:56:45.048] [info] Integration complete at final time 0.64 s.
+[2026-09-22 15:56:45.048] [info]  - CPU time elapsed: 47.375000 s
+[2026-09-22 15:56:45.049] [info]  - real time elapsed: 50.279380 s
+[2026-09-22 15:56:45.049] [info]  - ratio sim-to-real time: 0.013
+[2026-09-22 15:56:45.054] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:56:45.054] [info]  - number of realizations: 28086
+[2026-09-22 15:56:45.055] [info]  - number of steps taken / attempted: 4049 / 6009
+[2026-09-22 15:56:45.055] [info]  - number of projections: 2
+[2026-09-22 15:56:45.055] [info]  - number of iterations: 6009
+[2026-09-22 15:56:45.129] [info] -------
+[2026-09-22 15:56:45.129] [info] Manager
+[2026-09-22 15:56:45.129] [info] -------
+[2026-09-22 15:56:45.130] [info] Starting integration at initial time 0.64 s...
+[2026-09-22 15:57:09.155] [info] Integration complete at final time 0.68 s.
+[2026-09-22 15:57:09.156] [info]  - CPU time elapsed: 22.609375 s
+[2026-09-22 15:57:09.156] [info]  - real time elapsed: 24.025270 s
+[2026-09-22 15:57:09.156] [info]  - ratio sim-to-real time: 0.028
+[2026-09-22 15:57:09.156] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:57:09.156] [info]  - number of realizations: 17847
+[2026-09-22 15:57:09.156] [info]  - number of steps taken / attempted: 2526 / 3830
+[2026-09-22 15:57:09.156] [info]  - number of projections: 2
+[2026-09-22 15:57:09.156] [info]  - number of iterations: 3830
+[2026-09-22 15:57:09.219] [info] -------
+[2026-09-22 15:57:09.219] [info] Manager
+[2026-09-22 15:57:09.220] [info] -------
+[2026-09-22 15:57:09.220] [info] Starting integration at initial time 0.68 s...
+[2026-09-22 15:57:43.384] [info] Integration complete at final time 0.72 s.
+[2026-09-22 15:57:43.384] [info]  - CPU time elapsed: 32.281250 s
+[2026-09-22 15:57:43.384] [info]  - real time elapsed: 34.163825 s
+[2026-09-22 15:57:43.384] [info]  - ratio sim-to-real time: 0.021
+[2026-09-22 15:57:43.384] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:57:43.384] [info]  - number of realizations: 26293
+[2026-09-22 15:57:43.384] [info]  - number of steps taken / attempted: 3888 / 5601
+[2026-09-22 15:57:43.384] [info]  - number of projections: 2
+[2026-09-22 15:57:43.384] [info]  - number of iterations: 5601
+[2026-09-22 15:57:43.447] [info] -------
+[2026-09-22 15:57:43.448] [info] Manager
+[2026-09-22 15:57:43.448] [info] -------
+[2026-09-22 15:57:43.448] [info] Starting integration at initial time 0.72 s...
+[2026-09-22 15:57:52.398] [info] Integration complete at final time 0.76 s.
+[2026-09-22 15:57:52.398] [info]  - CPU time elapsed: 8.640625 s
+[2026-09-22 15:57:52.398] [info]  - real time elapsed: 8.949537 s
+[2026-09-22 15:57:52.398] [info]  - ratio sim-to-real time: 0.085
+[2026-09-22 15:57:52.398] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:57:52.398] [info]  - number of realizations: 9259
+[2026-09-22 15:57:52.398] [info]  - number of steps taken / attempted: 1502 / 1939
+[2026-09-22 15:57:52.398] [info]  - number of projections: 2
+[2026-09-22 15:57:52.398] [info]  - number of iterations: 1939
+[2026-09-22 15:57:52.453] [info] -------
+[2026-09-22 15:57:52.454] [info] Manager
+[2026-09-22 15:57:52.454] [info] -------
+[2026-09-22 15:57:52.454] [info] Starting integration at initial time 0.76 s...
+[2026-09-22 15:58:41.555] [info] Integration complete at final time 0.80 s.
+[2026-09-22 15:58:41.556] [info]  - CPU time elapsed: 42.734375 s
+[2026-09-22 15:58:41.556] [info]  - real time elapsed: 49.101448 s
+[2026-09-22 15:58:41.557] [info]  - ratio sim-to-real time: 0.016
+[2026-09-22 15:58:41.557] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 15:58:41.557] [info]  - number of realizations: 24872
+[2026-09-22 15:58:41.557] [info]  - number of steps taken / attempted: 3654 / 5304
+[2026-09-22 15:58:41.558] [info]  - number of projections: 2
+[2026-09-22 15:58:41.558] [info]  - number of iterations: 5304
+[2026-09-22 15:58:41.662] [info] -------
+[2026-09-22 15:58:41.662] [info] Manager
+[2026-09-22 15:58:41.662] [info] -------
+[2026-09-22 15:58:41.662] [info] Starting integration at initial time 0.80 s...
+[2026-09-22 16:00:59.062] [info] Integration complete at final time 0.84 s.
+[2026-09-22 16:00:59.062] [info]  - CPU time elapsed: 67.812500 s
+[2026-09-22 16:00:59.062] [info]  - real time elapsed: 137.399109 s
+[2026-09-22 16:00:59.062] [info]  - ratio sim-to-real time: 0.006
+[2026-09-22 16:00:59.062] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:00:59.062] [info]  - number of realizations: 36709
+[2026-09-22 16:00:59.063] [info]  - number of steps taken / attempted: 5216 / 7873
+[2026-09-22 16:00:59.063] [info]  - number of projections: 2
+[2026-09-22 16:00:59.063] [info]  - number of iterations: 7873
+[2026-09-22 16:00:59.138] [info] -------
+[2026-09-22 16:00:59.138] [info] Manager
+[2026-09-22 16:00:59.138] [info] -------
+[2026-09-22 16:00:59.138] [info] Starting integration at initial time 0.84 s...
+[2026-09-22 16:01:36.759] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim_added_floor.osim
+[2026-09-22 16:01:36.762] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-22 16:01:36.771] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-22 16:01:36.771] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-22 16:01:36.771] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-22 16:01:36.772] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-22 16:01:36.784] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-22 16:01:36.785] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-22 16:02:17.736] [info] Loaded model 3DGaitModelwithSimpleArms from file working_folder/models/Body_model_opensim_added_floor.osim
+[2026-09-22 16:02:17.743] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-09-22 16:02:17.764] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-09-22 16:02:17.765] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-09-22 16:02:17.766] [warning] Couldn't find file 'foot.vtp'.
+[2026-09-22 16:02:17.766] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-09-22 16:02:17.779] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-09-22 16:02:17.779] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-09-22 16:02:20.344] [info] -------
+[2026-09-22 16:02:20.345] [info] Manager
+[2026-09-22 16:02:20.345] [info] -------
+[2026-09-22 16:02:20.345] [info] Starting integration at initial time 0.00 s...
+[2026-09-22 16:02:23.018] [info] Integration complete at final time 0.04 s.
+[2026-09-22 16:02:23.018] [info]  - CPU time elapsed: 2.484375 s
+[2026-09-22 16:02:23.018] [info]  - real time elapsed: 2.672627 s
+[2026-09-22 16:02:23.018] [info]  - ratio sim-to-real time: 0.015
+[2026-09-22 16:02:23.018] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:02:23.019] [info]  - number of realizations: 1747
+[2026-09-22 16:02:23.019] [info]  - number of steps taken / attempted: 286 / 365
+[2026-09-22 16:02:23.019] [info]  - number of projections: 0
+[2026-09-22 16:02:23.019] [info]  - number of iterations: 365
+[2026-09-22 16:02:23.090] [info] -------
+[2026-09-22 16:02:23.091] [info] Manager
+[2026-09-22 16:02:23.091] [info] -------
+[2026-09-22 16:02:23.091] [info] Starting integration at initial time 0.04 s...
+[2026-09-22 16:02:24.827] [info] Integration complete at final time 0.08 s.
+[2026-09-22 16:02:24.827] [info]  - CPU time elapsed: 1.640625 s
+[2026-09-22 16:02:24.827] [info]  - real time elapsed: 1.735691 s
+[2026-09-22 16:02:24.827] [info]  - ratio sim-to-real time: 0.046
+[2026-09-22 16:02:24.827] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:02:24.828] [info]  - number of realizations: 1223
+[2026-09-22 16:02:24.828] [info]  - number of steps taken / attempted: 206 / 254
+[2026-09-22 16:02:24.828] [info]  - number of projections: 2
+[2026-09-22 16:02:24.828] [info]  - number of iterations: 254
+[2026-09-22 16:02:24.890] [info] -------
+[2026-09-22 16:02:24.891] [info] Manager
+[2026-09-22 16:02:24.891] [info] -------
+[2026-09-22 16:02:24.891] [info] Starting integration at initial time 0.08 s...
+[2026-09-22 16:02:26.735] [info] Integration complete at final time 0.12 s.
+[2026-09-22 16:02:26.736] [info]  - CPU time elapsed: 1.703125 s
+[2026-09-22 16:02:26.737] [info]  - real time elapsed: 1.844258 s
+[2026-09-22 16:02:26.737] [info]  - ratio sim-to-real time: 0.065
+[2026-09-22 16:02:26.737] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:02:26.738] [info]  - number of realizations: 1219
+[2026-09-22 16:02:26.738] [info]  - number of steps taken / attempted: 202 / 254
+[2026-09-22 16:02:26.738] [info]  - number of projections: 2
+[2026-09-22 16:02:26.738] [info]  - number of iterations: 254
+[2026-09-22 16:02:26.807] [info] -------
+[2026-09-22 16:02:26.807] [info] Manager
+[2026-09-22 16:02:26.807] [info] -------
+[2026-09-22 16:02:26.807] [info] Starting integration at initial time 0.12 s...
+[2026-09-22 16:02:28.586] [info] Integration complete at final time 0.16 s.
+[2026-09-22 16:02:28.586] [info]  - CPU time elapsed: 1.718750 s
+[2026-09-22 16:02:28.586] [info]  - real time elapsed: 1.777783 s
+[2026-09-22 16:02:28.586] [info]  - ratio sim-to-real time: 0.090
+[2026-09-22 16:02:28.586] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:02:28.586] [info]  - number of realizations: 1224
+[2026-09-22 16:02:28.586] [info]  - number of steps taken / attempted: 203 / 255
+[2026-09-22 16:02:28.586] [info]  - number of projections: 2
+[2026-09-22 16:02:28.586] [info]  - number of iterations: 255
+[2026-09-22 16:02:28.655] [info] -------
+[2026-09-22 16:02:28.656] [info] Manager
+[2026-09-22 16:02:28.656] [info] -------
+[2026-09-22 16:02:28.656] [info] Starting integration at initial time 0.16 s...
+[2026-09-22 16:02:30.542] [info] Integration complete at final time 0.20 s.
+[2026-09-22 16:02:30.542] [info]  - CPU time elapsed: 1.718750 s
+[2026-09-22 16:02:30.542] [info]  - real time elapsed: 1.885507 s
+[2026-09-22 16:02:30.542] [info]  - ratio sim-to-real time: 0.106
+[2026-09-22 16:02:30.542] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:02:30.542] [info]  - number of realizations: 1284
+[2026-09-22 16:02:30.542] [info]  - number of steps taken / attempted: 207 / 269
+[2026-09-22 16:02:30.542] [info]  - number of projections: 2
+[2026-09-22 16:02:30.542] [info]  - number of iterations: 269
+[2026-09-22 16:02:30.637] [info] -------
+[2026-09-22 16:02:30.637] [info] Manager
+[2026-09-22 16:02:30.637] [info] -------
+[2026-09-22 16:02:30.638] [info] Starting integration at initial time 0.20 s...
+[2026-09-22 16:02:32.236] [info] Integration complete at final time 0.24 s.
+[2026-09-22 16:02:32.236] [info]  - CPU time elapsed: 1.453125 s
+[2026-09-22 16:02:32.237] [info]  - real time elapsed: 1.598513 s
+[2026-09-22 16:02:32.237] [info]  - ratio sim-to-real time: 0.150
+[2026-09-22 16:02:32.237] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:02:32.237] [info]  - number of realizations: 1100
+[2026-09-22 16:02:32.237] [info]  - number of steps taken / attempted: 191 / 227
+[2026-09-22 16:02:32.237] [info]  - number of projections: 2
+[2026-09-22 16:02:32.237] [info]  - number of iterations: 227
+[2026-09-22 16:02:32.310] [info] -------
+[2026-09-22 16:02:32.310] [info] Manager
+[2026-09-22 16:02:32.311] [info] -------
+[2026-09-22 16:02:32.311] [info] Starting integration at initial time 0.24 s...
+[2026-09-22 16:02:34.010] [info] Integration complete at final time 0.28 s.
+[2026-09-22 16:02:34.010] [info]  - CPU time elapsed: 1.562500 s
+[2026-09-22 16:02:34.010] [info]  - real time elapsed: 1.699304 s
+[2026-09-22 16:02:34.010] [info]  - ratio sim-to-real time: 0.165
+[2026-09-22 16:02:34.010] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:02:34.010] [info]  - number of realizations: 1215
+[2026-09-22 16:02:34.010] [info]  - number of steps taken / attempted: 182 / 258
+[2026-09-22 16:02:34.010] [info]  - number of projections: 2
+[2026-09-22 16:02:34.011] [info]  - number of iterations: 258
+[2026-09-22 16:02:34.077] [info] -------
+[2026-09-22 16:02:34.077] [info] Manager
+[2026-09-22 16:02:34.077] [info] -------
+[2026-09-22 16:02:34.077] [info] Starting integration at initial time 0.28 s...
+[2026-09-22 16:02:35.830] [info] Integration complete at final time 0.32 s.
+[2026-09-22 16:02:35.830] [info]  - CPU time elapsed: 1.671875 s
+[2026-09-22 16:02:35.830] [info]  - real time elapsed: 1.752861 s
+[2026-09-22 16:02:35.830] [info]  - ratio sim-to-real time: 0.183
+[2026-09-22 16:02:35.830] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:02:35.830] [info]  - number of realizations: 1171
+[2026-09-22 16:02:35.830] [info]  - number of steps taken / attempted: 178 / 248
+[2026-09-22 16:02:35.830] [info]  - number of projections: 2
+[2026-09-22 16:02:35.830] [info]  - number of iterations: 248
+[2026-09-22 16:02:35.905] [info] -------
+[2026-09-22 16:02:35.905] [info] Manager
+[2026-09-22 16:02:35.905] [info] -------
+[2026-09-22 16:02:35.905] [info] Starting integration at initial time 0.32 s...
+[2026-09-22 16:02:37.207] [info] Integration complete at final time 0.36 s.
+[2026-09-22 16:02:37.207] [info]  - CPU time elapsed: 1.203125 s
+[2026-09-22 16:02:37.208] [info]  - real time elapsed: 1.301773 s
+[2026-09-22 16:02:37.208] [info]  - ratio sim-to-real time: 0.277
+[2026-09-22 16:02:37.208] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:02:37.208] [info]  - number of realizations: 880
+[2026-09-22 16:02:37.208] [info]  - number of steps taken / attempted: 139 / 185
+[2026-09-22 16:02:37.208] [info]  - number of projections: 2
+[2026-09-22 16:02:37.208] [info]  - number of iterations: 185
+[2026-09-22 16:02:37.285] [info] -------
+[2026-09-22 16:02:37.285] [info] Manager
+[2026-09-22 16:02:37.285] [info] -------
+[2026-09-22 16:02:37.286] [info] Starting integration at initial time 0.36 s...
+[2026-09-22 16:02:38.154] [info] Integration complete at final time 0.40 s.
+[2026-09-22 16:02:38.154] [info]  - CPU time elapsed: 0.812500 s
+[2026-09-22 16:02:38.154] [info]  - real time elapsed: 0.867891 s
+[2026-09-22 16:02:38.154] [info]  - ratio sim-to-real time: 0.461
+[2026-09-22 16:02:38.154] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:02:38.154] [info]  - number of realizations: 574
+[2026-09-22 16:02:38.154] [info]  - number of steps taken / attempted: 109 / 116
+[2026-09-22 16:02:38.155] [info]  - number of projections: 2
+[2026-09-22 16:02:38.155] [info]  - number of iterations: 116
+[2026-09-22 16:02:38.219] [info] -------
+[2026-09-22 16:02:38.219] [info] Manager
+[2026-09-22 16:02:38.220] [info] -------
+[2026-09-22 16:02:38.220] [info] Starting integration at initial time 0.40 s...
+[2026-09-22 16:02:39.567] [info] Integration complete at final time 0.44 s.
+[2026-09-22 16:02:39.568] [info]  - CPU time elapsed: 1.156250 s
+[2026-09-22 16:02:39.568] [info]  - real time elapsed: 1.346837 s
+[2026-09-22 16:02:39.568] [info]  - ratio sim-to-real time: 0.327
+[2026-09-22 16:02:39.568] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:02:39.568] [info]  - number of realizations: 876
+[2026-09-22 16:02:39.568] [info]  - number of steps taken / attempted: 135 / 185
+[2026-09-22 16:02:39.568] [info]  - number of projections: 2
+[2026-09-22 16:02:39.569] [info]  - number of iterations: 185
+[2026-09-22 16:02:39.643] [info] -------
+[2026-09-22 16:02:39.643] [info] Manager
+[2026-09-22 16:02:39.643] [info] -------
+[2026-09-22 16:02:39.643] [info] Starting integration at initial time 0.44 s...
+[2026-09-22 16:02:41.457] [info] Integration complete at final time 0.48 s.
+[2026-09-22 16:02:41.457] [info]  - CPU time elapsed: 1.687500 s
+[2026-09-22 16:02:41.457] [info]  - real time elapsed: 1.813569 s
+[2026-09-22 16:02:41.457] [info]  - ratio sim-to-real time: 0.265
+[2026-09-22 16:02:41.457] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:02:41.457] [info]  - number of realizations: 1252
+[2026-09-22 16:02:41.457] [info]  - number of steps taken / attempted: 199 / 263
+[2026-09-22 16:02:41.458] [info]  - number of projections: 2
+[2026-09-22 16:02:41.458] [info]  - number of iterations: 263
+[2026-09-22 16:02:41.530] [info] -------
+[2026-09-22 16:02:41.531] [info] Manager
+[2026-09-22 16:02:41.532] [info] -------
+[2026-09-22 16:02:41.532] [info] Starting integration at initial time 0.48 s...
+[2026-09-22 16:02:44.473] [info] Integration complete at final time 0.52 s.
+[2026-09-22 16:02:44.473] [info]  - CPU time elapsed: 2.765625 s
+[2026-09-22 16:02:44.473] [info]  - real time elapsed: 2.940543 s
+[2026-09-22 16:02:44.473] [info]  - ratio sim-to-real time: 0.177
+[2026-09-22 16:02:44.473] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:02:44.473] [info]  - number of realizations: 2007
+[2026-09-22 16:02:44.473] [info]  - number of steps taken / attempted: 286 / 430
+[2026-09-22 16:02:44.473] [info]  - number of projections: 2
+[2026-09-22 16:02:44.474] [info]  - number of iterations: 430
+[2026-09-22 16:02:44.552] [info] -------
+[2026-09-22 16:02:44.553] [info] Manager
+[2026-09-22 16:02:44.553] [info] -------
+[2026-09-22 16:02:44.553] [info] Starting integration at initial time 0.52 s...
+[2026-09-22 16:02:49.427] [info] Integration complete at final time 0.56 s.
+[2026-09-22 16:02:49.427] [info]  - CPU time elapsed: 4.421875 s
+[2026-09-22 16:02:49.428] [info]  - real time elapsed: 4.873551 s
+[2026-09-22 16:02:49.428] [info]  - ratio sim-to-real time: 0.115
+[2026-09-22 16:02:49.428] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:02:49.428] [info]  - number of realizations: 3424
+[2026-09-22 16:02:49.428] [info]  - number of steps taken / attempted: 491 / 733
+[2026-09-22 16:02:49.428] [info]  - number of projections: 2
+[2026-09-22 16:02:49.428] [info]  - number of iterations: 733
+[2026-09-22 16:02:49.503] [info] -------
+[2026-09-22 16:02:49.503] [info] Manager
+[2026-09-22 16:02:49.503] [info] -------
+[2026-09-22 16:02:49.504] [info] Starting integration at initial time 0.56 s...
+[2026-09-22 16:02:56.975] [info] Integration complete at final time 0.60 s.
+[2026-09-22 16:02:56.975] [info]  - CPU time elapsed: 7.187500 s
+[2026-09-22 16:02:56.975] [info]  - real time elapsed: 7.470864 s
+[2026-09-22 16:02:56.975] [info]  - ratio sim-to-real time: 0.080
+[2026-09-22 16:02:56.975] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:02:56.975] [info]  - number of realizations: 5403
+[2026-09-22 16:02:56.975] [info]  - number of steps taken / attempted: 782 / 1155
+[2026-09-22 16:02:56.975] [info]  - number of projections: 2
+[2026-09-22 16:02:56.975] [info]  - number of iterations: 1155
+[2026-09-22 16:02:57.071] [info] -------
+[2026-09-22 16:02:57.071] [info] Manager
+[2026-09-22 16:02:57.071] [info] -------
+[2026-09-22 16:02:57.071] [info] Starting integration at initial time 0.60 s...
+[2026-09-22 16:03:05.676] [info] Integration complete at final time 0.64 s.
+[2026-09-22 16:03:05.677] [info]  - CPU time elapsed: 8.031250 s
+[2026-09-22 16:03:05.677] [info]  - real time elapsed: 8.604771 s
+[2026-09-22 16:03:05.677] [info]  - ratio sim-to-real time: 0.074
+[2026-09-22 16:03:05.677] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:03:05.677] [info]  - number of realizations: 6153
+[2026-09-22 16:03:05.677] [info]  - number of steps taken / attempted: 900 / 1313
+[2026-09-22 16:03:05.677] [info]  - number of projections: 2
+[2026-09-22 16:03:05.677] [info]  - number of iterations: 1313
+[2026-09-22 16:03:05.743] [info] -------
+[2026-09-22 16:03:05.743] [info] Manager
+[2026-09-22 16:03:05.743] [info] -------
+[2026-09-22 16:03:05.743] [info] Starting integration at initial time 0.64 s...
+[2026-09-22 16:03:11.446] [info] Integration complete at final time 0.68 s.
+[2026-09-22 16:03:11.447] [info]  - CPU time elapsed: 5.421875 s
+[2026-09-22 16:03:11.447] [info]  - real time elapsed: 5.703139 s
+[2026-09-22 16:03:11.447] [info]  - ratio sim-to-real time: 0.119
+[2026-09-22 16:03:11.447] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:03:11.447] [info]  - number of realizations: 4173
+[2026-09-22 16:03:11.448] [info]  - number of steps taken / attempted: 600 / 893
+[2026-09-22 16:03:11.448] [info]  - number of projections: 2
+[2026-09-22 16:03:11.448] [info]  - number of iterations: 893
+[2026-09-22 16:03:11.526] [info] -------
+[2026-09-22 16:03:11.526] [info] Manager
+[2026-09-22 16:03:11.526] [info] -------
+[2026-09-22 16:03:11.527] [info] Starting integration at initial time 0.68 s...
+[2026-09-22 16:03:17.247] [info] Integration complete at final time 0.72 s.
+[2026-09-22 16:03:17.247] [info]  - CPU time elapsed: 5.390625 s
+[2026-09-22 16:03:17.247] [info]  - real time elapsed: 5.719983 s
+[2026-09-22 16:03:17.247] [info]  - ratio sim-to-real time: 0.126
+[2026-09-22 16:03:17.247] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:03:17.247] [info]  - number of realizations: 4026
+[2026-09-22 16:03:17.248] [info]  - number of steps taken / attempted: 573 / 863
+[2026-09-22 16:03:17.248] [info]  - number of projections: 2
+[2026-09-22 16:03:17.248] [info]  - number of iterations: 863
+[2026-09-22 16:03:17.317] [info] -------
+[2026-09-22 16:03:17.318] [info] Manager
+[2026-09-22 16:03:17.318] [info] -------
+[2026-09-22 16:03:17.318] [info] Starting integration at initial time 0.72 s...
+[2026-09-22 16:03:23.906] [info] Integration complete at final time 0.76 s.
+[2026-09-22 16:03:23.907] [info]  - CPU time elapsed: 6.281250 s
+[2026-09-22 16:03:23.907] [info]  - real time elapsed: 6.588013 s
+[2026-09-22 16:03:23.907] [info]  - ratio sim-to-real time: 0.115
+[2026-09-22 16:03:23.907] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:03:23.907] [info]  - number of realizations: 4857
+[2026-09-22 16:03:23.907] [info]  - number of steps taken / attempted: 796 / 1015
+[2026-09-22 16:03:23.907] [info]  - number of projections: 2
+[2026-09-22 16:03:23.907] [info]  - number of iterations: 1015
+[2026-09-22 16:03:23.976] [info] -------
+[2026-09-22 16:03:23.976] [info] Manager
+[2026-09-22 16:03:23.977] [info] -------
+[2026-09-22 16:03:23.977] [info] Starting integration at initial time 0.76 s...
+[2026-09-22 16:03:31.499] [info] Integration complete at final time 0.80 s.
+[2026-09-22 16:03:31.500] [info]  - CPU time elapsed: 7.265625 s
+[2026-09-22 16:03:31.500] [info]  - real time elapsed: 7.522628 s
+[2026-09-22 16:03:31.500] [info]  - ratio sim-to-real time: 0.106
+[2026-09-22 16:03:31.500] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:03:31.500] [info]  - number of realizations: 5502
+[2026-09-22 16:03:31.501] [info]  - number of steps taken / attempted: 880 / 1155
+[2026-09-22 16:03:31.501] [info]  - number of projections: 2
+[2026-09-22 16:03:31.501] [info]  - number of iterations: 1155
+[2026-09-22 16:03:31.604] [info] -------
+[2026-09-22 16:03:31.604] [info] Manager
+[2026-09-22 16:03:31.605] [info] -------
+[2026-09-22 16:03:31.605] [info] Starting integration at initial time 0.80 s...
+[2026-09-22 16:03:39.352] [info] Integration complete at final time 0.84 s.
+[2026-09-22 16:03:39.353] [info]  - CPU time elapsed: 7.468750 s
+[2026-09-22 16:03:39.353] [info]  - real time elapsed: 7.747677 s
+[2026-09-22 16:03:39.353] [info]  - ratio sim-to-real time: 0.108
+[2026-09-22 16:03:39.353] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:03:39.354] [info]  - number of realizations: 5679
+[2026-09-22 16:03:39.354] [info]  - number of steps taken / attempted: 870 / 1202
+[2026-09-22 16:03:39.354] [info]  - number of projections: 2
+[2026-09-22 16:03:39.354] [info]  - number of iterations: 1202
+[2026-09-22 16:03:39.424] [info] -------
+[2026-09-22 16:03:39.425] [info] Manager
+[2026-09-22 16:03:39.425] [info] -------
+[2026-09-22 16:03:39.426] [info] Starting integration at initial time 0.84 s...
+[2026-09-22 16:03:46.676] [info] Integration complete at final time 0.88 s.
+[2026-09-22 16:03:46.677] [info]  - CPU time elapsed: 6.859375 s
+[2026-09-22 16:03:46.678] [info]  - real time elapsed: 7.250629 s
+[2026-09-22 16:03:46.678] [info]  - ratio sim-to-real time: 0.121
+[2026-09-22 16:03:46.678] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:03:46.678] [info]  - number of realizations: 5334
+[2026-09-22 16:03:46.678] [info]  - number of steps taken / attempted: 777 / 1139
+[2026-09-22 16:03:46.678] [info]  - number of projections: 2
+[2026-09-22 16:03:46.678] [info]  - number of iterations: 1139
+[2026-09-22 16:03:46.747] [info] -------
+[2026-09-22 16:03:46.747] [info] Manager
+[2026-09-22 16:03:46.747] [info] -------
+[2026-09-22 16:03:46.747] [info] Starting integration at initial time 0.88 s...
+[2026-09-22 16:03:52.403] [info] Integration complete at final time 0.92 s.
+[2026-09-22 16:03:52.404] [info]  - CPU time elapsed: 5.312500 s
+[2026-09-22 16:03:52.404] [info]  - real time elapsed: 5.655623 s
+[2026-09-22 16:03:52.404] [info]  - ratio sim-to-real time: 0.163
+[2026-09-22 16:03:52.404] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:03:52.404] [info]  - number of realizations: 3985
+[2026-09-22 16:03:52.404] [info]  - number of steps taken / attempted: 588 / 849
+[2026-09-22 16:03:52.404] [info]  - number of projections: 2
+[2026-09-22 16:03:52.404] [info]  - number of iterations: 849
+[2026-09-22 16:03:52.471] [info] -------
+[2026-09-22 16:03:52.472] [info] Manager
+[2026-09-22 16:03:52.472] [info] -------
+[2026-09-22 16:03:52.472] [info] Starting integration at initial time 0.92 s...
+[2026-09-22 16:03:58.937] [info] Integration complete at final time 0.96 s.
+[2026-09-22 16:03:58.938] [info]  - CPU time elapsed: 6.109375 s
+[2026-09-22 16:03:58.938] [info]  - real time elapsed: 6.465315 s
+[2026-09-22 16:03:58.938] [info]  - ratio sim-to-real time: 0.148
+[2026-09-22 16:03:58.938] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:03:58.938] [info]  - number of realizations: 4546
+[2026-09-22 16:03:58.938] [info]  - number of steps taken / attempted: 673 / 968
+[2026-09-22 16:03:58.938] [info]  - number of projections: 2
+[2026-09-22 16:03:58.938] [info]  - number of iterations: 968
+[2026-09-22 16:03:59.014] [info] -------
+[2026-09-22 16:03:59.014] [info] Manager
+[2026-09-22 16:03:59.015] [info] -------
+[2026-09-22 16:03:59.015] [info] Starting integration at initial time 0.96 s...
+[2026-09-22 16:04:11.089] [info] Integration complete at final time 1.00 s.
+[2026-09-22 16:04:11.090] [info]  - CPU time elapsed: 11.218750 s
+[2026-09-22 16:04:11.090] [info]  - real time elapsed: 12.074256 s
+[2026-09-22 16:04:11.090] [info]  - ratio sim-to-real time: 0.083
+[2026-09-22 16:04:11.090] [info]  - integrator method: RungeKuttaMerson
+[2026-09-22 16:04:11.090] [info]  - number of realizations: 8197
+[2026-09-22 16:04:11.091] [info]  - number of steps taken / attempted: 1340 / 1714
+[2026-09-22 16:04:11.091] [info]  - number of projections: 2
+[2026-09-22 16:04:11.091] [info]  - number of iterations: 1714
