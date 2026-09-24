@@ -98,6 +98,9 @@ def create_RL_controller(config: DictConfig) -> None:
     Trains a RL controller based on the configurations in the conf.yaml file
     '''
 
+    # print(OmegaConf.to_yaml(config, resolve=False))
+    # OmegaConf.resolve(config)
+
     #n_substeps specifies the number of simulation steps executed for each call to the environment's step() function.
     env = ImitationFactory.make(config.experiment.env_params.env_name,
                                 default_dataset_conf=DefaultDatasetConf([config.experiment.env_params.default_dataset]),
@@ -129,8 +132,6 @@ def create_RL_controller(config: DictConfig) -> None:
     os.makedirs(config.experiment.save_path, exist_ok=True)
     save_path = PPOJax.save_agent(config.experiment.save_path, agent_conf, agent_state)
 
-def add_ground_forces(osim_model: Model):
-    return
 
 def OpenSim_RL_implementation(osim_model: Model, state_to_action: Callable, control_dt, duration) -> None:
     '''
@@ -192,7 +193,7 @@ if __name__=='__main__':
     save_path_RL = 'working_folder/saved_agent' #This should match the one in conf.yaml
     save_path_osim_model = 'working_folder/models/Body_model_opensim_added_floor.osim'
 
-    TRAINING = True #re-trains the RL controller
+    TRAINING = False #re-trains the RL controller
 
     #Enable tests here
     POLICY_TEST = True
@@ -215,6 +216,8 @@ if __name__=='__main__':
         env = ImitationFactory.make('MjxSkeletonMuscle',
                                 default_dataset_conf=DefaultDatasetConf(["walk"]),
                                 n_substeps=20)
+        # PPOJax.play_policy(env, agent_conf, agent_state, deterministic=True, n_steps=100, n_envs=1, record=False,
+        #             train_state_seed=0) 
 
     remove_keywords = ['activation', 'fiber', 'pelvis_tx/value', 'subtalar_angle', 'mtp_angle']
 
@@ -222,11 +225,6 @@ if __name__=='__main__':
 
     OpenSim_RL_implementation(osim_model, state_to_action, 0.04, 1.0) #control_dt based on env.dt in the RL training loop 
 
-    # PPOJax.play_policy(env, agent_conf, agent_state, deterministic=True, n_steps=100, n_envs=1, record=False,
-    #                 train_state_seed=0)
-
-
-    
     
 
 # --------------Policy test ----------------------------------------------------------------------------------------------------------
