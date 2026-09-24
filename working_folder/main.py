@@ -193,10 +193,10 @@ if __name__=='__main__':
     save_path_RL = 'working_folder/saved_agent' #This should match the one in conf.yaml
     save_path_osim_model = 'working_folder/models/Body_model_opensim_added_floor.osim'
 
-    TRAINING = False #re-trains the RL controller
+    TRAINING = True #re-trains the RL controller
 
     #Enable tests here
-    POLICY_TEST = True
+    POLICY_TEST = False
     MODEL_MATCHING_TEST = False
 
     if TRAINING:

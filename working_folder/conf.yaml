@@ -18,7 +18,7 @@ defaults:
 
 experiment:
   save_path: 'working_folder/saved_agent' #adjust this save path so it reflects where the agent should be stored
-  visualize: true
+  visualize: false
   env_params:
     env_name: 'MjxSkeletonMuscle'
     default_dataset: 'walk'
@@ -47,9 +47,9 @@ experiment:
         - right_foot_mimic
   hidden_layers: [512, 256]
   lr: 1e-4
-  num_envs: 640 #Adjust for longer training
-  num_steps: 320 #Adjust for longer training
-  total_timesteps: 2048000 #Must be >= num_envs * num_steps for at least one PPO update
+  num_envs: 2048 #640 #Adjust for longer training
+  num_steps: 200 #320 #Adjust for longer training
+  total_timesteps: 300e6 #2048000 #Must be >= num_envs * num_steps for at least one PPO update
   update_epochs: 4
   proportion_env_reward: 0.0
   num_minibatches: 32
